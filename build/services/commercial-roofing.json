@@ -1,0 +1,28 @@
+{
+  "slug": "commercial-roofing",
+  "h1": "Commercial Roofing",
+  "tagline": "Licensed commercial roofing for LA County businesses and property managers.",
+  "metaDescription": "Commercial roofing contractor for Los Angeles County — TPO, modified bitumen, built-up, SPF foam, and metal systems. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Commercial Roofing Across Los Angeles County",
+  "intro": "Palm Crest Roofing serves commercial property owners, managers, and tenants across LA County with full-service commercial roofing. From small retail buildings to large warehouses and multi-tenant HOAs, we handle re-roofs, recovers, repairs, and preventative maintenance on every major low-slope system in use today.",
+  "benefits": [
+    "TPO, PVC, modified bitumen, built-up, and SPF foam systems",
+    "Minimal business disruption — flexible scheduling including nights/weekends",
+    "Coordination with property managers, HOAs, and tenants",
+    "Comprehensive insurance and bonding",
+    "Detailed written scopes for budget planning and RFPs",
+    "Preventative maintenance contracts available"
+  ],
+  "process": [
+    { "title": "Site Survey", "desc": "We inspect the roof, document existing conditions, identify drains and penetrations, and take core samples if needed." },
+    { "title": "Proposal", "desc": "Detailed scope and pricing — broken out by system, warranty, and options so you can compare apples-to-apples." },
+    { "title": "Pre-Construction Meeting", "desc": "Coordinate logistics with your facilities team: access, parking, noise, safety, and tenant communication." },
+    { "title": "Installation", "desc": "Licensed crew, proper fall protection, material loading plan, and daily site cleanup." },
+    { "title": "Close-Out", "desc": "Final inspection, as-built documentation, and manufacturer warranty registration." }
+  ],
+  "faqs": [
+    { "q": "What commercial roofing systems do you install?", "a": "TPO, PVC, modified bitumen (torch-down and cold-applied), built-up, SPF foam, and standing-seam metal. We'll recommend the right system based on your building type, budget, and local climate." },
+    { "q": "Do you offer preventative maintenance?", "a": "Yes. We offer annual and semi-annual maintenance contracts that extend roof life and catch issues before they become leaks." },
+    { "q": "Can you work around our business hours?", "a": "Absolutely. We regularly work nights, weekends, and phased installs to minimize disruption to tenants and operations." }
+  ]
+}

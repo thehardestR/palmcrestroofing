@@ -1,0 +1,28 @@
+{
+  "slug": "roof-repair",
+  "h1": "Roof Repair",
+  "tagline": "Fast, reliable repair for leaks, storm damage, and worn sections.",
+  "metaDescription": "Roof repair in Los Angeles County — leak repair, storm damage, flashing, and emergency tarps. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Roof Repair Across LA County",
+  "intro": "Not every roof problem needs a full replacement. Palm Crest Roofing fixes leaks, damaged flashing, blown-off shingles, cracked tiles, storm damage, and pinhole leaks on flat roofs — often the same week you call. If your roof has good life left, we'll repair it honestly rather than push a replacement you don't need.",
+  "benefits": [
+    "Leak diagnosis — pinpoint the actual source, not just visible damage",
+    "Asphalt shingle, tile, metal, and flat-roof repair",
+    "Flashing repair at walls, chimneys, skylights, and valleys",
+    "Emergency tarp service during storms",
+    "Insurance claim documentation and photos",
+    "Honest assessments — we'll tell you if a repair doesn't make sense"
+  ],
+  "process": [
+    { "title": "Leak Inspection", "desc": "Roof walk + attic inspection to find the actual source. Leaks often travel along rafters before dripping — the visible drip rarely shows the real problem." },
+    { "title": "Written Quote", "desc": "Clear estimate with options: targeted repair, full section replacement, or full re-roof if needed." },
+    { "title": "Repair", "desc": "Flashing, shingle, tile, membrane, or penetration repair done to code with matching materials." },
+    { "title": "Verification", "desc": "Water test on completed repair. Photo documentation of work for your records and any insurance claim." },
+    { "title": "Follow-Up", "desc": "We stand behind every repair. If it leaks again within the warranty period, we come back and fix it." }
+  ],
+  "faqs": [
+    { "q": "Can you tarp my roof today?", "a": "During storms we prioritize emergency tarps and temporary repairs. Call 818.252.9422 and we'll get someone to you as fast as possible." },
+    { "q": "How much does a roof repair cost?", "a": "Targeted repairs (single flashing, shingle, or tile) run $300–$900. Larger section repairs run $1,000–$3,000. Flat-roof seam repairs vary by extent. Every repair gets a written quote before we start." },
+    { "q": "Will a repair void my manufacturer warranty?", "a": "Not when done properly with matching materials and to manufacturer spec. We follow manufacturer installation guidelines on every repair." }
+  ]
+}

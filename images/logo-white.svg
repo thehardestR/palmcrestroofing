@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-label="Palm Crest Roofing">
+  <g transform="translate(10,10)">
+    <circle cx="50" cy="58" r="28" fill="#FFFFFF" opacity="0.12"/>
+    <path d="M 6 86 L 50 28 L 94 86 Z"
+          fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M 50 86 C 52 78 48 70 50 60 C 52 52 48 46 50 40"
+          fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <g fill="#FFFFFF">
+      <path d="M 50 40 C 40 30 26 28 14 32 C 26 34 36 36 48 44 Z"/>
+      <path d="M 50 40 C 60 30 74 28 86 32 C 74 34 64 36 52 44 Z"/>
+      <path d="M 50 40 C 44 26 38 18 30 14 C 36 24 40 30 48 42 Z"/>
+      <path d="M 50 40 C 56 26 62 18 70 14 C 64 24 60 30 52 42 Z"/>
+    </g>
+  </g>
+  <g transform="translate(120,0)">
+    <text x="0" y="58"
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+          font-size="38" font-weight="800" font-style="italic"
+          letter-spacing="2" fill="#FFFFFF">PALM CREST</text>
+    <text x="0" y="88"
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+          font-size="18" font-weight="700"
+          letter-spacing="8" fill="#FFFFFF">ROOFING</text>
+  </g>
+</svg>

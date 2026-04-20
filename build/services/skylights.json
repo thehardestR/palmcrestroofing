@@ -1,0 +1,28 @@
+{
+  "slug": "skylights",
+  "h1": "Skylight Installation",
+  "tagline": "Install, replace, and repair skylights with proper flashing and warranty.",
+  "metaDescription": "Skylight installation, replacement, and repair in Los Angeles County. VELUX, Fakro, and custom skylights. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Skylight Installation & Replacement",
+  "intro": "Skylights bring natural light deep into rooms that windows can't reach — but they're also the #1 source of roof leaks when installed poorly. Palm Crest Roofing installs and replaces VELUX, Fakro, and custom skylights with proper curb, flashing, and underlayment integration so they don't leak for decades.",
+  "benefits": [
+    "Fixed, venting, and solar-powered venting skylights",
+    "VELUX, Fakro, and custom-sized units",
+    "Proper curb construction and step-flashing integration",
+    "Ice-and-water shield around every opening",
+    "Manufacturer warranty registration",
+    "Tubular skylights (solar tubes) for small spaces"
+  ],
+  "process": [
+    { "title": "Consultation", "desc": "Walk through skylight options, sizes, operation (fixed vs venting), and placement." },
+    { "title": "Opening & Framing", "desc": "Cut and frame opening with proper headers, following structural requirements." },
+    { "title": "Curb Construction", "desc": "Build waterproof curb with correct height, slope shedding, and ice-and-water shield." },
+    { "title": "Flashing", "desc": "Manufacturer step-flashing or custom pan/counterflashing integrated into the roof underlayment." },
+    { "title": "Interior Finish", "desc": "Drywall the opening shaft, prime, and paint to match your ceiling." }
+  ],
+  "faqs": [
+    { "q": "Do skylights leak?", "a": "Quality skylights properly installed with correct curb, flashing, and underlayment integration do not leak. Most skylight leaks come from failed installation — poor flashing or wrong-size curb — not defective product." },
+    { "q": "How much do skylights cost installed?", "a": "Fixed skylights: $1,500–$3,500 installed. Venting skylights: $2,500–$5,000. Solar venting: $3,000–$6,000. Prices vary by size, roof type, and whether interior finish is included." },
+    { "q": "Can I add skylights during a re-roof?", "a": "Yes — that's actually the ideal time. Adding or replacing skylights is far cheaper and easier during a roof replacement since the underlayment and flashing can be integrated seamlessly." }
+  ]
+}

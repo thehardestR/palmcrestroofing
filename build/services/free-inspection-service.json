@@ -1,0 +1,28 @@
+{
+  "slug": "free-inspection-service",
+  "h1": "Free Roof Inspection",
+  "tagline": "Thorough, no-obligation roof assessment with a written report.",
+  "metaDescription": "Free roof inspections across Los Angeles County. Written report, photo documentation, and honest life-expectancy estimate. CA Lic. #1109337.",
+  "intro_h2": "Free Roof Inspection — LA County-Wide",
+  "intro": "A proper roof inspection tells you three things: (1) how much life your current roof has left, (2) whether any repairs are needed now, and (3) what options make sense if a replacement is coming. Palm Crest Roofing does free, no-obligation inspections across all of Los Angeles County — and if your roof is fine, we'll tell you.",
+  "benefits": [
+    "Full exterior roof walk-through (when safely accessible)",
+    "Attic inspection for leaks, ventilation, and insulation",
+    "Flashing, valley, and penetration assessment",
+    "Gutter and downspout check",
+    "Photo documentation of all findings",
+    "Written report with honest life-expectancy estimate"
+  ],
+  "process": [
+    { "title": "Schedule", "desc": "Call 818.252.9422 or request online. We usually have slots within a few days." },
+    { "title": "Exterior Inspection", "desc": "Our inspector walks the roof (when safe), checks shingles/tiles, flashings, valleys, penetrations, and gutters." },
+    { "title": "Attic Inspection", "desc": "Most leaks show up in the attic before they reach your ceiling — we check for stains, moisture, proper insulation, and ventilation." },
+    { "title": "Photo Documentation", "desc": "Every finding is photographed so you can see exactly what we saw." },
+    { "title": "Written Report", "desc": "You get a plain-language report with condition, issues found, recommended actions, and pricing if work is needed." }
+  ],
+  "faqs": [
+    { "q": "Is the inspection really free?", "a": "Yes, truly free — no fine print, no hidden fees, no obligation. We earn our living by earning trust first." },
+    { "q": "Will you try to sell me a new roof?", "a": "No. If your roof has another 5–10 years, we'll tell you. We'd rather earn your trust for the replacement years from now than pressure you today." },
+    { "q": "How long does an inspection take?", "a": "Typically 30–60 minutes for residential, longer for large commercial buildings or complex roofs." }
+  ]
+}

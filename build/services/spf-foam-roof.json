@@ -1,0 +1,28 @@
+{
+  "slug": "spf-foam-roof",
+  "h1": "SPF Foam Roofing",
+  "tagline": "Spray polyurethane foam — seamless insulation and waterproofing in one system.",
+  "metaDescription": "SPF spray foam roofing in Los Angeles County — seamless, energy-efficient, self-flashing. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Spray Polyurethane Foam (SPF) Roofing",
+  "intro": "SPF roofing is a seamless, monolithic system sprayed directly onto your roof deck. It delivers superior insulation (R-6+ per inch), self-flashes around every penetration, and — with proper coating maintenance — can last 30+ years. Palm Crest Roofing installs SPF on commercial, residential, and mixed-use buildings across LA County.",
+  "benefits": [
+    "Seamless, self-flashing — no seams to fail at penetrations",
+    "R-6+ per inch — the highest R-value per inch of any roofing insulation",
+    "Lightweight — typically under 1 lb per square foot",
+    "Installs over most existing roof types without tear-off",
+    "30+ year service life with periodic coating recoats",
+    "Reflective elastomeric top coat for cool-roof performance"
+  ],
+  "process": [
+    { "title": "Inspection", "desc": "Assess existing roof for moisture, structural issues, and substrate suitability." },
+    { "title": "Prep & Repair", "desc": "Clean the surface, repair blisters and punctures, ensure a sound substrate." },
+    { "title": "Foam Application", "desc": "Two-component polyurethane is spray-applied, expanding and curing within seconds into a seamless insulating layer." },
+    { "title": "Elastomeric Coating", "desc": "Reflective top coat is applied over the foam for UV protection, waterproofing, and reflectivity." },
+    { "title": "Granule Broadcast", "desc": "Optional silica or ceramic granule broadcast for walkability and additional UV resistance." }
+  ],
+  "faqs": [
+    { "q": "How long does an SPF roof last?", "a": "The foam itself can last 30–50 years. The elastomeric coating needs to be recoated roughly every 10–15 years to maintain UV and waterproof performance." },
+    { "q": "Can SPF be installed over my existing roof?", "a": "Usually yes — SPF works over most existing roof substrates including built-up, modified bitumen, metal, and concrete, as long as the substrate is sound and dry." },
+    { "q": "Does SPF save energy?", "a": "Yes — significantly. SPF adds R-value and the reflective top coat reduces cooling loads. Many customers see 20–30% cooling cost reductions." }
+  ]
+}

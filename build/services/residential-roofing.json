@@ -1,0 +1,32 @@
+{
+  "slug": "residential-roofing",
+  "h1": "Residential Roofing",
+  "tagline": "Complete home roof replacement and new construction across LA County.",
+  "metaDescription": "Licensed residential roofing contractor serving all of Los Angeles County. Asphalt shingle, tile, metal, and flat roofs for homes. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Expert Residential Roofing in Los Angeles County",
+  "intro": "Your roof is the single most important system on your home. Palm Crest Roofing installs and replaces residential roofs across Los Angeles County — from Santa Clarita to Long Beach — using premium materials from GAF, Owens Corning, CertainTeed, and other top manufacturers. Every re-roof is installed to California Building Code, properly permitted, and backed by our workmanship warranty.",
+  "benefits": [
+    "Asphalt (composition), clay tile, concrete tile, metal, and cool-roof options",
+    "Full tear-off and re-deck when needed — not just an overlay",
+    "Proper underlayment, ice-and-water shield, and ventilation at every install",
+    "Licensed, bonded, insured — CA Lic. #1109337",
+    "Manufacturer warranties plus our own workmanship warranty",
+    "Free inspection and written estimate — no sales pressure"
+  ],
+  "process": [
+    { "title": "Free Inspection", "desc": "We walk the roof, check the attic, and document everything with photos. You get a written report with our honest recommendation." },
+    { "title": "Written Estimate", "desc": "Detailed, itemized pricing — materials, labor, permits, disposal, warranty. No surprises, no hidden fees." },
+    { "title": "Scheduling & Permits", "desc": "We pull all required permits and coordinate a start date that works for your schedule." },
+    { "title": "Tear-Off & Installation", "desc": "Crew arrives on time, protects your property, and completes the install cleanly. Most homes finish in 2–4 days." },
+    { "title": "Final Inspection & Cleanup", "desc": "Municipal inspection, thorough property cleanup, and walk-through with you. You get all warranty paperwork in-hand." }
+  ],
+  "body_extra": {
+    "heading": "Which Roofing Material Is Right for Your Home?",
+    "text": "Asphalt composition shingle remains the most popular choice for LA County homes — affordable, durable, and available in a wide range of styles. Tile (clay or concrete) fits Mediterranean and Spanish-style homes beautifully and can last 50+ years. Standing-seam metal is increasingly popular for its durability, energy efficiency, and modern look. We'll walk you through the tradeoffs during your free inspection and help you choose the right system for your home and budget."
+  },
+  "faqs": [
+    { "q": "How long does a residential re-roof take?", "a": "Most homes are 2–4 days. Larger or steep-pitch homes, tile, and metal may take a day or two longer." },
+    { "q": "Do you handle permits?", "a": "Yes — we pull all required permits through your city or LA County and handle the final inspection." },
+    { "q": "Will you remove the old roof?", "a": "Yes. We always recommend a full tear-off rather than an overlay — it's the only way to catch hidden deck damage and install a roof that lasts." }
+  ]
+}

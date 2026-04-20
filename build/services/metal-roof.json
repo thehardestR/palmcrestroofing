@@ -1,0 +1,28 @@
+{
+  "slug": "metal-roof",
+  "h1": "Metal Roofing",
+  "tagline": "Standing-seam and panel metal roofing — durable, energy-efficient, beautiful.",
+  "metaDescription": "Metal roof installation in Los Angeles County — standing-seam, panel, and stone-coated steel. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Metal Roofing for Residential and Commercial Buildings",
+  "intro": "Metal roofing has surged in popularity across California thanks to its 50+ year lifespan, excellent energy efficiency, and modern aesthetic. Palm Crest Roofing installs standing-seam metal, metal shingles, and stone-coated steel across LA County — with the right profile and finish for your home or building.",
+  "benefits": [
+    "Standing-seam, exposed-fastener panel, and stone-coated steel",
+    "Cool-roof coatings that lower summer cooling costs",
+    "50+ year lifespan — often the last roof a building ever needs",
+    "Non-combustible — ideal for LA's wildfire-prone foothills",
+    "Wide range of colors and profiles",
+    "Proper flashing, underlayment, and ventilation included"
+  ],
+  "process": [
+    { "title": "Consultation", "desc": "We walk through metal profiles, colors, and finishes — plus cost comparisons vs. other roofing systems." },
+    { "title": "Estimate", "desc": "Written quote including material, labor, trim, flashings, and warranty." },
+    { "title": "Substrate Prep", "desc": "Tear off existing roof, inspect and repair deck, install ice-and-water shield and high-temp underlayment." },
+    { "title": "Metal Installation", "desc": "Panels installed to manufacturer spec with concealed or exposed fasteners per system chosen." },
+    { "title": "Trim & Flashing", "desc": "Ridge, eave, rake, valley, and penetration trim installed and sealed." }
+  ],
+  "faqs": [
+    { "q": "Is a metal roof louder in the rain?", "a": "No — properly installed metal roofs over a solid deck with underlayment are no louder than asphalt or tile. The 'tin roof in the rain' sound comes from metal over open purlins on barns, not residential installs." },
+    { "q": "How long does a metal roof last?", "a": "50+ years for standing-seam; 40+ for stone-coated steel. It is often the last roof a home will ever need." },
+    { "q": "Will metal fit a Spanish-style home?", "a": "Stone-coated steel panels can mimic tile or shake profiles and fit traditional California architecture well. We'll show you samples during your free inspection." }
+  ]
+}

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-label="Palm Crest Roofing">
+  <defs>
+    <linearGradient id="pcSunset" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F4A261"/>
+      <stop offset="60%" stop-color="#E76F51"/>
+      <stop offset="100%" stop-color="#C44536"/>
+    </linearGradient>
+    <linearGradient id="pcPalm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#52B788"/>
+      <stop offset="100%" stop-color="#1B4332"/>
+    </linearGradient>
+    <linearGradient id="pcText" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#CFD8D3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark: roof crest + sun + palm -->
+  <g transform="translate(10,10)">
+    <!-- Sun disc behind crest -->
+    <circle cx="50" cy="58" r="28" fill="url(#pcSunset)" opacity="0.9"/>
+    <!-- Roof crest (double peak) -->
+    <path d="M 6 86 L 50 28 L 94 86 Z"
+          fill="none" stroke="#1A2F2A" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M 14 86 L 50 38 L 86 86"
+          fill="none" stroke="url(#pcSunset)" stroke-width="4" stroke-linejoin="round" opacity="0.95"/>
+    <!-- Ridge cap highlight -->
+    <path d="M 50 28 L 50 38" stroke="#FFD6A5" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Palm trunk -->
+    <path d="M 50 86 C 52 78 48 70 50 60 C 52 52 48 46 50 40"
+          fill="none" stroke="url(#pcPalm)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Palm fronds -->
+    <g fill="url(#pcPalm)">
+      <path d="M 50 40 C 40 30 26 28 14 32 C 26 34 36 36 48 44 Z"/>
+      <path d="M 50 40 C 60 30 74 28 86 32 C 74 34 64 36 52 44 Z"/>
+      <path d="M 50 40 C 44 26 38 18 30 14 C 36 24 40 30 48 42 Z"/>
+      <path d="M 50 40 C 56 26 62 18 70 14 C 64 24 60 30 52 42 Z"/>
+      <path d="M 50 40 C 42 34 32 34 24 40 C 34 40 42 42 48 46 Z"/>
+      <path d="M 50 40 C 58 34 68 34 76 40 C 66 40 58 42 52 46 Z"/>
+    </g>
+    <!-- Coconut cluster -->
+    <circle cx="47" cy="42" r="2.2" fill="#8B5E3C"/>
+    <circle cx="53" cy="43" r="2" fill="#8B5E3C"/>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(120,0)">
+    <text x="0" y="58"
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+          font-size="38" font-weight="800" font-style="italic"
+          letter-spacing="2"
+          fill="url(#pcText)">PALM CREST</text>
+    <text x="0" y="88"
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+          font-size="18" font-weight="700"
+          letter-spacing="8"
+          fill="#E76F51">ROOFING</text>
+    <line x1="0" y1="98" x2="220" y2="98" stroke="#2D6A4F" stroke-width="1" opacity="0.6"/>
+    <text x="0" y="112"
+          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+          font-size="9" font-weight="600"
+          letter-spacing="3"
+          fill="#94a3b8">CA LIC. #1109337</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "slug": "tile-roof",
+  "h1": "Tile Roofing",
+  "tagline": "Clay and concrete tile roofing — the classic California look, built to last.",
+  "metaDescription": "Tile roof installation, replacement, and restoration in Los Angeles County. Clay and concrete tile specialists. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Tile Roofing for LA County Homes",
+  "intro": "Tile roofs are a signature of California architecture — from Spanish Colonial and Mediterranean to modern homes with tile accents. Palm Crest Roofing installs, replaces, and restores clay and concrete tile roofs across LA County. We work with Boral, Eagle, Redland, and other top tile manufacturers.",
+  "benefits": [
+    "Clay and concrete tile — new installation and full replacement",
+    "Tile restoration: replace underlayment, re-lay tiles, swap broken tiles",
+    "Proper flashing at all penetrations, valleys, and sidewalls",
+    "Color-matched replacement tiles",
+    "Lifespan typically 50+ years on tile, 25–30 years on underlayment",
+    "Licensed, insured, and warranty-backed"
+  ],
+  "process": [
+    { "title": "Inspection", "desc": "We assess tile condition, underlayment life, flashing integrity, and structural support." },
+    { "title": "Estimate", "desc": "Clear options: full replacement vs. tile lift-and-relay for underlayment-only work." },
+    { "title": "Tear-Off or Lift", "desc": "Depending on scope, full tear-off or careful removal and stacking of existing tiles." },
+    { "title": "Underlayment & Flashing", "desc": "New synthetic or peel-and-stick underlayment, new flashings, new tile battens." },
+    { "title": "Tile Installation", "desc": "Tiles reinstalled or newly installed per manufacturer spec, with proper fastening and boosting at edges." }
+  ],
+  "faqs": [
+    { "q": "How long does a tile roof last?", "a": "The tiles themselves can last 50+ years. The underlayment beneath the tiles typically needs replacement every 25–30 years in LA County's climate — that's usually what drives a tile roof project." },
+    { "q": "Can you just replace the underlayment without buying new tiles?", "a": "Yes. A tile lift-and-relay saves you from buying all new tiles. We remove tiles carefully, install new underlayment, and reinstall the same tiles (replacing any broken ones)." },
+    { "q": "Do you match existing tile colors?", "a": "Yes. We source color-matched replacements for broken tiles and blend them in during restoration." }
+  ]
+}

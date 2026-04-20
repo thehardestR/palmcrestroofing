@@ -1,0 +1,28 @@
+{
+  "slug": "tpo-roof",
+  "h1": "TPO Roofing",
+  "tagline": "Single-ply reflective membrane — lower cooling costs, longer roof life.",
+  "metaDescription": "TPO single-ply roofing in Los Angeles County for commercial and residential flat roofs. Energy-efficient cool-roof systems. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "TPO Single-Ply Roofing",
+  "intro": "TPO (thermoplastic polyolefin) is a single-ply reflective membrane that's become the dominant commercial low-slope roofing material — and it's increasingly popular on residential flat roofs and additions. Palm Crest Roofing installs TPO in mechanically fastened, adhered, and induction-welded systems across LA County.",
+  "benefits": [
+    "Reflective white surface cuts cooling loads 20%+",
+    "Title 24 and ENERGY STAR cool-roof compliant",
+    "Heat-welded seams are stronger than the membrane itself",
+    "Lightweight — often suitable over existing roofs",
+    "15–25 year manufacturer warranties available",
+    "GAF, Carlisle, Johns Manville, Firestone systems"
+  ],
+  "process": [
+    { "title": "Inspection", "desc": "Assess deck, slope, drainage, and existing roof. TPO can sometimes be installed over a prepared existing roof." },
+    { "title": "Prep", "desc": "Tear off or prepare substrate. Install insulation and cover board per project requirements." },
+    { "title": "Membrane Installation", "desc": "TPO rolled out and secured by mechanical fasteners, adhesive, or induction welding per spec." },
+    { "title": "Heat-Welded Seams", "desc": "Every seam is heat-welded with a hot-air gun — creating a bond stronger than the membrane itself." },
+    { "title": "Flashings & Terminations", "desc": "Walls, penetrations, and edges are flashed with TPO-coated metal and sealed." }
+  ],
+  "faqs": [
+    { "q": "What's the difference between TPO and PVC?", "a": "Both are single-ply reflective membranes. PVC is more chemical-resistant (good for restaurants with grease exhaust); TPO is slightly cheaper and equally durable for most applications." },
+    { "q": "Can TPO be installed over my existing roof?", "a": "Often yes — with proper prep, insulation, and cover board. We'll inspect and tell you whether a recover or full tear-off is appropriate." },
+    { "q": "How long do TPO seams last?", "a": "Properly heat-welded seams are designed to last the life of the membrane (15–25+ years). They don't rely on adhesives that can fail." }
+  ]
+}

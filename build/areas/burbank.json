@@ -1,0 +1,12 @@
+{
+  "slug": "burbank",
+  "city": "Burbank",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Our home base — flagship roofing for Burbank homes and businesses.",
+  "neighborhoods": ["Magnolia Park", "Rancho", "Media District", "Burbank Hills", "Downtown Burbank", "Toluca Lake (Burbank side)"],
+  "local_note": "Burbank is our flagship service area. The mix of mid-century ranch homes, Spanish Colonials, and hillside properties means we work with everything from composition shingle and tile to metal and SPF foam. Hot valley summers and occasional heavy winter rains make proper attic ventilation, cool-roof underlayment, and sound flashing critical here — and it's what we focus on every install.",
+  "faqs": [
+    { "q": "Do you pull Burbank building permits?", "a": "Yes — every re-roof in Burbank is permitted through the Burbank Community Development Department. We handle the application and inspection." },
+    { "q": "What's the best roof for a Magnolia Park bungalow?", "a": "Composition shingle with a cool-roof underlayment works well and fits the architectural style. Metal shingles are a premium option if you want 50+ year lifespan." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "glendale",
+  "city": "Glendale",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Licensed roofing for Glendale homes, HOAs, and commercial buildings.",
+  "neighborhoods": ["Rossmoyne", "Verdugo Woodlands", "Adams Hill", "Montrose (Glendale)", "La Crescenta-Montrose", "Downtown Glendale"],
+  "local_note": "Glendale's mix of hillside homes, historic neighborhoods like Rossmoyne, and commercial corridors along Brand Boulevard means we handle a wide range of roofing systems. Verdugo Woodlands and the foothill neighborhoods need serious attention to ember-resistant assemblies and Class A fire ratings — we install the right underlayment, metal drip edge, and ember-resistant venting for fire-zone homes.",
+  "faqs": [
+    { "q": "Are Glendale foothill homes in a fire hazard zone?", "a": "Much of Verdugo Woodlands, Adams Hill, and areas adjacent to the Verdugo Mountains are in Very High Fire Hazard Severity Zones. These homes require Class A roofs, ember-resistant venting, and Chapter 7A compliance. We specialize in these assemblies." }
+  ]
+}

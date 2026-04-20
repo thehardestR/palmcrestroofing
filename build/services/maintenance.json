@@ -1,0 +1,28 @@
+{
+  "slug": "maintenance",
+  "h1": "Roof Maintenance",
+  "tagline": "Preventative care to maximize your roof's lifespan.",
+  "metaDescription": "Roof maintenance and preventative service in Los Angeles County. Annual inspections, cleaning, sealant, and minor repairs. CA Lic. #1109337.",
+  "intro_h2": "Roof Maintenance Programs",
+  "intro": "A well-maintained roof lasts 20–40% longer than a neglected one. Palm Crest Roofing offers annual and semi-annual maintenance for residential and commercial roofs across LA County — catching small issues before they become expensive leaks.",
+  "benefits": [
+    "Annual or semi-annual inspection and service",
+    "Debris removal from valleys, gutters, and drains",
+    "Flashing and sealant touch-ups",
+    "Minor shingle, tile, or membrane repair included",
+    "Written condition report each visit",
+    "Priority response if a leak occurs between visits"
+  ],
+  "process": [
+    { "title": "Initial Inspection", "desc": "Baseline assessment of roof condition, flashing, drainage, and known issues." },
+    { "title": "Maintenance Plan", "desc": "Custom plan based on roof type, age, and risk factors — annual or semi-annual service." },
+    { "title": "Scheduled Visits", "desc": "Pre-winter and/or spring visits to clean, inspect, and perform minor repairs." },
+    { "title": "Photo Report", "desc": "After every visit you receive a photo report showing condition and any work performed." },
+    { "title": "Priority Support", "desc": "Maintenance customers get priority scheduling for any non-covered repairs." }
+  ],
+  "faqs": [
+    { "q": "How often should my roof be inspected?", "a": "Annually at minimum for composition roofs; semi-annually (spring and fall) for tile, flat, and commercial roofs. More often if you have heavy tree cover." },
+    { "q": "What's included in a maintenance visit?", "a": "Inspection, debris removal, valley and gutter cleaning, flashing and sealant touch-ups, and minor repairs up to a set value. Major repairs are quoted separately." },
+    { "q": "Do maintenance programs really save money?", "a": "Yes — dramatically. Most premature roof failures are caused by small issues (clogged drains, failed sealant, missing flashing) that go unnoticed until they cause major damage. Catching them early costs a fraction of the repair bill." }
+  ]
+}

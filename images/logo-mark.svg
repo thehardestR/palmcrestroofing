@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Palm Crest Roofing mark">
+  <defs>
+    <linearGradient id="pcmSunset" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F4A261"/>
+      <stop offset="100%" stop-color="#C44536"/>
+    </linearGradient>
+    <linearGradient id="pcmPalm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#52B788"/>
+      <stop offset="100%" stop-color="#1B4332"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="68" r="30" fill="url(#pcmSunset)" opacity="0.9"/>
+  <path d="M 14 96 L 60 34 L 106 96 Z"
+        fill="none" stroke="#1A2F2A" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M 22 96 L 60 44 L 98 96"
+        fill="none" stroke="url(#pcmSunset)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M 60 34 L 60 44" stroke="#FFD6A5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 60 96 C 62 86 58 76 60 64 C 62 54 58 48 60 42"
+        fill="none" stroke="url(#pcmPalm)" stroke-width="4" stroke-linecap="round"/>
+  <g fill="url(#pcmPalm)">
+    <path d="M 60 42 C 48 30 32 28 18 32 C 32 34 44 36 58 46 Z"/>
+    <path d="M 60 42 C 72 30 88 28 102 32 C 88 34 76 36 62 46 Z"/>
+    <path d="M 60 42 C 52 24 44 14 34 10 C 42 22 48 30 58 44 Z"/>
+    <path d="M 60 42 C 68 24 76 14 86 10 C 78 22 72 30 62 44 Z"/>
+  </g>
+</svg>

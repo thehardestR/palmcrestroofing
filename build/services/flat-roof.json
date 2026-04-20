@@ -1,0 +1,28 @@
+{
+  "slug": "flat-roof",
+  "h1": "Flat Roofing",
+  "tagline": "Modified bitumen and built-up roofing for low-slope residential and commercial.",
+  "metaDescription": "Flat roof installation and replacement in Los Angeles County — modified bitumen, built-up, and single-ply systems. Free inspections. CA Lic. #1109337.",
+  "intro_h2": "Flat & Low-Slope Roofing in LA County",
+  "intro": "Flat roofs are common on mid-century homes, additions, garages, and virtually all commercial buildings in LA County. Palm Crest Roofing installs modified bitumen (mod-bit), built-up roofing (BUR), and single-ply systems (TPO, PVC) for low-slope applications. We also handle hybrid roofs with tile or shingle sections.",
+  "benefits": [
+    "Modified bitumen (torch-down and cold-applied)",
+    "Built-up roofing (BUR) with gravel or cap sheet",
+    "Single-ply membranes (TPO, PVC) for commercial and large residential",
+    "Proper slope and drainage design to prevent ponding",
+    "Primer, base sheet, cap sheet, and proper flashing at all penetrations",
+    "15–30 year lifespans depending on system"
+  ],
+  "process": [
+    { "title": "Inspection & Scope", "desc": "Assess existing roof, drains, penetrations, and slope. Recommend the right system for your building." },
+    { "title": "Tear-Off", "desc": "Full tear-off to the deck when needed, or clean prep for a recover when appropriate." },
+    { "title": "Deck Repair & Insulation", "desc": "Replace rotted deck, install or upgrade insulation and cover board for energy efficiency." },
+    { "title": "Base & Cap", "desc": "Base sheet and cap sheet (or membrane) installed with mechanical fasteners, adhesive, or torch per system." },
+    { "title": "Flashings & Drains", "desc": "New flashings at parapets, walls, drains, and penetrations. Ensure all drainage paths are clear." }
+  ],
+  "faqs": [
+    { "q": "How long does a flat roof last?", "a": "Modified bitumen: 15–20 years. Built-up with cap sheet: 20–25 years. TPO single-ply: 15–25 years. Proper drainage and ventilation extend life significantly." },
+    { "q": "Why does my flat roof keep leaking?", "a": "Most flat-roof leaks are at penetrations, drains, or walls — not the field of the roof. Often a targeted flashing repair fixes it. We'll diagnose honestly during your free inspection." },
+    { "q": "Can you install a cool roof?", "a": "Yes. Reflective cap sheets and white TPO/PVC membranes meet Title 24 cool-roof requirements and reduce cooling costs." }
+  ]
+}
