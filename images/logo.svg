@@ -1,101 +1,107 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Palm Crest Roofing">
   <defs>
-    <linearGradient id="sunGrad" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="sunG" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%"   stop-color="#FDB347"/>
       <stop offset="55%"  stop-color="#E76F51"/>
       <stop offset="100%" stop-color="#C44536"/>
     </linearGradient>
-    <clipPath id="innerClip">
-      <circle cx="250" cy="250" r="170"/>
+    <clipPath id="ic">
+      <circle cx="250" cy="250" r="188"/>
     </clipPath>
   </defs>
 
   <!-- Outer ring fill -->
-  <circle cx="250" cy="250" r="230" fill="#EDE7DA"/>
+  <circle cx="250" cy="250" r="246" fill="#EDE7DA"/>
   <!-- Outer border -->
-  <circle cx="250" cy="250" r="230" fill="none" stroke="#0F1B18" stroke-width="5"/>
-  <!-- Inner circle -->
-  <circle cx="250" cy="250" r="170" fill="#FAFAF6"/>
+  <circle cx="250" cy="250" r="246" fill="none" stroke="#0F1B18" stroke-width="6"/>
+  <!-- Inner circle fill -->
+  <circle cx="250" cy="250" r="188" fill="#FFFBF3"/>
   <!-- Inner border -->
-  <circle cx="250" cy="250" r="170" fill="none" stroke="#0F1B18" stroke-width="3"/>
+  <circle cx="250" cy="250" r="188" fill="none" stroke="#0F1B18" stroke-width="4"/>
 
-  <!-- Bullet dots at 9-o-clock and 3-o-clock on the ring -->
-  <circle cx="20"  cy="250" r="7" fill="#E76F51"/>
-  <circle cx="480" cy="250" r="7" fill="#E76F51"/>
+  <!-- Bullet dots at 9 and 3 o'clock on ring -->
+  <circle cx="33"  cy="250" r="9" fill="#E76F51"/>
+  <circle cx="467" cy="250" r="9" fill="#E76F51"/>
 
-  <!-- Arc text paths on ring midpoint r=204 -->
-  <!-- Top arc: sweep=1 (clockwise), goes from left through top to right -->
-  <path id="topArc"    d="M 46,250 A 204,204 0 0,1 454,250" fill="none"/>
-  <!-- Bottom arc: sweep=0 (counterclockwise), goes from left through bottom to right -->
-  <path id="bottomArc" d="M 46,250 A 204,204 0 0,0 454,250" fill="none"/>
+  <!-- Arc text paths at ring midpoint r=217 -->
+  <path id="ta" d="M 33,250 A 217,217 0 0,1 467,250" fill="none"/>
+  <path id="ba" d="M 33,250 A 217,217 0 0,0 467,250" fill="none"/>
 
-  <!-- TOP TEXT -->
+  <!-- Top arc: PALM CREST ROOFING -->
   <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
-        font-size="30" font-weight="800" letter-spacing="4" fill="#0F1B18">
-    <textPath href="#topArc" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
+        font-size="29" font-weight="800" letter-spacing="4" fill="#0F1B18">
+    <textPath href="#ta" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
   </text>
 
-  <!-- BOTTOM TEXT -->
+  <!-- Bottom arc: PALM CREST -->
   <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
-        font-size="27" font-weight="700" letter-spacing="6" fill="#E76F51">
-    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
+        font-size="28" font-weight="700" letter-spacing="7" fill="#E76F51">
+    <textPath href="#ba" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
   </text>
 
-  <!-- SCENE clipped to inner circle -->
-  <g clip-path="url(#innerClip)">
+  <!-- INNER SCENE clipped to inner circle -->
+  <g clip-path="url(#ic)">
 
-    <!-- 1. Sun disc (back layer) -->
-    <circle cx="268" cy="304" r="105" fill="url(#sunGrad)"/>
+    <!-- Sun disc (back layer) -->
+    <circle cx="268" cy="348" r="92" fill="url(#sunG)"/>
 
-    <!-- 2. Main tall palm (center-left, drawn over sun) -->
-    <!-- S-curve trunk from ground (198,342) up to crown (214,128) -->
-    <path d="M 198 342 C 202 316 198 290 194 264 C 190 240 196 214 214 128"
-          fill="none" stroke="#1B4332" stroke-width="9" stroke-linecap="round"/>
-    <g fill="#1B4332">
-      <!-- far-left drooping frond -->
-      <path d="M 214 128 C 188 140 158 146 132 160 C 158 142 186 134 212 134 Z"/>
-      <!-- upper-left frond -->
-      <path d="M 214 128 C 190 110 164  96 142  88 C 166 100 190 112 212 126 Z"/>
-      <!-- top-left angled frond -->
-      <path d="M 214 128 C 198 100 192  76 190  58 C 198  80 206 104 214 126 Z"/>
-      <!-- near-vertical top frond -->
-      <path d="M 214 128 C 212 100 212  76 212  58 C 216  76 216 102 216 126 Z"/>
-      <!-- top-right frond -->
-      <path d="M 214 128 C 234 106 252  94 268  90 C 254 104 236 116 216 126 Z"/>
-      <!-- right drooping frond (arcs over sun, natural) -->
-      <path d="M 214 128 C 246 134 270 148 282 164 C 260 146 236 138 216 132 Z"/>
-    </g>
-    <!-- Coconut cluster -->
-    <circle cx="210" cy="134" r="6.5" fill="#5C3D0E"/>
-    <circle cx="219" cy="131" r="6"   fill="#5C3D0E"/>
+    <!-- === MAIN TALL PALM === -->
+    <!-- Trunk: slight S-curve from base to crown -->
+    <path d="M 212,385 C 214,340 212,295 212,250 C 212,205 214,170 215,142"
+          fill="none" stroke="#1B4332" stroke-width="8" stroke-linecap="round"/>
+    <!-- Fronds from crown (215,142) — filled leaf shapes -->
+    <!-- 1. Far left droop -->
+    <path d="M 215,142 Q 155,150 108,178 Q 148,168 215,147 Z" fill="#1B4332"/>
+    <!-- 2. Upper-left diagonal -->
+    <path d="M 215,142 Q 172,116 132,104 Q 167,126 215,147 Z" fill="#1B4332"/>
+    <!-- 3. Top-left -->
+    <path d="M 215,142 Q 184,100 165,68  Q 185,108 217,140 Z" fill="#1B4332"/>
+    <!-- 4. Near-vertical up -->
+    <path d="M 215,142 Q 210,100 212,62  Q 220,100 217,140 Z" fill="#1B4332"/>
+    <!-- 5. Top-right -->
+    <path d="M 215,142 Q 244,100 264,70  Q 245,112 217,140 Z" fill="#1B4332"/>
+    <!-- 6. Right horizontal -->
+    <path d="M 215,142 Q 266,124 305,120 Q 260,134 215,147 Z" fill="#1B4332"/>
+    <!-- 7. Right droop (arcs over sun) -->
+    <path d="M 215,142 Q 272,150 308,178 Q 265,162 215,147 Z" fill="#1B4332"/>
+    <!-- Coconuts -->
+    <circle cx="212" cy="149" r="7"   fill="#5C3D0E"/>
+    <circle cx="220" cy="147" r="6.5" fill="#5C3D0E"/>
+    <circle cx="216" cy="155" r="6"   fill="#5C3D0E"/>
 
-    <!-- 3. Small palm (right side, shorter) -->
-    <path d="M 318 342 C 316 322 314 306 312 288"
+    <!-- === SMALL PALM (right side) === -->
+    <!-- Trunk -->
+    <path d="M 314,385 C 314,362 313,342 312,282"
           fill="none" stroke="#1B4332" stroke-width="6" stroke-linecap="round"/>
-    <g fill="#1B4332">
-      <path d="M 312 288 C 294 294 276 298 264 310 C 280 294 298 288 312 292 Z"/>
-      <path d="M 312 288 C 296 272 280 262 268 256 C 284 266 300 276 312 286 Z"/>
-      <path d="M 312 288 C 310 268 312 252 312 240 C 314 254 314 270 314 286 Z"/>
-      <path d="M 312 288 C 330 274 346 268 358 266 C 346 276 330 282 314 286 Z"/>
-      <path d="M 312 288 C 334 292 350 304 354 318 C 338 302 320 294 314 290 Z"/>
-    </g>
-    <circle cx="309" cy="292" r="4.5" fill="#5C3D0E"/>
-    <circle cx="317" cy="290" r="4"   fill="#5C3D0E"/>
+    <!-- Fronds from crown (312,282) -->
+    <!-- 1. Left -->
+    <path d="M 312,282 Q 278,282 252,290 Q 276,285 312,286 Z" fill="#1B4332"/>
+    <!-- 2. Upper-left -->
+    <path d="M 312,282 Q 286,254 268,235 Q 288,258 314,280 Z" fill="#1B4332"/>
+    <!-- 3. Up -->
+    <path d="M 312,282 Q 310,250 312,224 Q 314,250 314,280 Z" fill="#1B4332"/>
+    <!-- 4. Upper-right -->
+    <path d="M 312,282 Q 337,252 357,238 Q 334,258 314,280 Z" fill="#1B4332"/>
+    <!-- 5. Right -->
+    <path d="M 312,282 Q 344,282 370,290 Q 342,285 314,286 Z" fill="#1B4332"/>
+    <!-- Coconut -->
+    <circle cx="309" cy="286" r="5.5" fill="#5C3D0E"/>
+    <circle cx="316" cy="284" r="5"   fill="#5C3D0E"/>
 
-    <!-- 4. Ground line -->
-    <rect x="80" y="344" width="340" height="5" fill="#0F1B18" rx="2.5"/>
+    <!-- Ground line -->
+    <rect x="62" y="382" width="376" height="5" rx="2.5" fill="#0F1B18"/>
 
-    <!-- 5. House silhouette (front layer, over palm trunks + sun) -->
-    <!-- Low ranch profile: peak 264,286; eaves at 155/375 y=344 -->
-    <path d="M 148 344 L 148 320 L 180 304 L 264 280 L 348 304 L 380 320 L 380 344 Z"
+    <!-- House / roofline silhouette (front layer) -->
+    <!-- Low wide ranch: peak (250,316), eaves (148,360)–(352,360), base y=382 -->
+    <path d="M 148,382 L 148,360 L 250,316 L 352,360 L 352,382 Z"
           fill="#0F1B18"/>
-    <!-- Coral ridge highlight -->
-    <path d="M 180 304 L 264 280 L 348 304"
+    <!-- Coral ridge line -->
+    <path d="M 148,360 L 250,316 L 352,360"
           fill="none" stroke="#E76F51" stroke-width="3.5"
           stroke-linejoin="round" stroke-linecap="round"/>
-    <!-- Soft gold inner echo -->
-    <path d="M 194 304 L 264 288 L 334 304"
-          fill="none" stroke="#F4A261" stroke-width="1.5"
+    <!-- Gold inner echo -->
+    <path d="M 165,360 L 250,325 L 335,360"
+          fill="none" stroke="#F4A261" stroke-width="1.8"
           stroke-linejoin="round" opacity="0.45"/>
 
   </g>
