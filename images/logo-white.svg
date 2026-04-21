@@ -1,49 +1,41 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Palm Crest Roofing">
-  <defs>
-    <clipPath id="icW">
-      <circle cx="250" cy="250" r="188"/>
-    </clipPath>
-  </defs>
-  <circle cx="250" cy="250" r="246" fill="none" stroke="#FFFFFF" stroke-width="6"/>
-  <circle cx="250" cy="250" r="188" fill="none" stroke="#FFFFFF" stroke-width="4"/>
-  <circle cx="33"  cy="250" r="9" fill="#FFFFFF"/>
+  <defs><clipPath id="ic"><circle cx="250" cy="250" r="188"/></clipPath></defs>
+  <circle cx="250" cy="250" r="246" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <circle cx="250" cy="250" r="236" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
+  <circle cx="250" cy="250" r="188" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+  <circle cx="33" cy="250" r="9" fill="#FFFFFF"/>
   <circle cx="467" cy="250" r="9" fill="#FFFFFF"/>
-  <path id="taW" d="M 33,250 A 217,217 0 0,1 467,250" fill="none"/>
-  <path id="baW" d="M 33,250 A 217,217 0 0,0 467,250" fill="none"/>
-  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
-        font-size="29" font-weight="800" letter-spacing="4" fill="#FFFFFF">
-    <textPath href="#taW" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
+  <path id="ta" d="M 33,250 A 217,217 0 0,1 467,250" fill="none"/>
+  <path id="ba" d="M 33,250 A 217,217 0 0,0 467,250" fill="none"/>
+  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="4" fill="#FFFFFF">
+    <textPath href="#ta" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
   </text>
-  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
-        font-size="28" font-weight="700" letter-spacing="7" fill="#FFFFFF" opacity="0.85">
-    <textPath href="#baW" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
+  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="7" fill="#CCCCCC">
+    <textPath href="#ba" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
   </text>
-  <g clip-path="url(#icW)">
-    <circle cx="268" cy="348" r="92" fill="#FFFFFF" opacity="0.10"/>
-    <path d="M 212,385 C 214,340 212,295 212,250 C 212,205 214,170 215,142"
-          fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.90"/>
-    <g fill="#FFFFFF" opacity="0.90">
-      <path d="M 215,142 Q 155,150 108,178 Q 148,168 215,147 Z"/>
-      <path d="M 215,142 Q 172,116 132,104 Q 167,126 215,147 Z"/>
-      <path d="M 215,142 Q 184,100 165,68  Q 185,108 217,140 Z"/>
-      <path d="M 215,142 Q 210,100 212,62  Q 220,100 217,140 Z"/>
-      <path d="M 215,142 Q 244,100 264,70  Q 245,112 217,140 Z"/>
-      <path d="M 215,142 Q 266,124 305,120 Q 260,134 215,147 Z"/>
-      <path d="M 215,142 Q 272,150 308,178 Q 265,162 215,147 Z"/>
-    </g>
-    <path d="M 314,385 C 314,362 313,342 312,282"
-          fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.80"/>
-    <g fill="#FFFFFF" opacity="0.80">
-      <path d="M 312,282 Q 278,282 252,290 Q 276,285 312,286 Z"/>
-      <path d="M 312,282 Q 286,254 268,235 Q 288,258 314,280 Z"/>
-      <path d="M 312,282 Q 310,250 312,224 Q 314,250 314,280 Z"/>
-      <path d="M 312,282 Q 337,252 357,238 Q 334,258 314,280 Z"/>
-      <path d="M 312,282 Q 344,282 370,290 Q 342,285 314,286 Z"/>
-    </g>
-    <rect x="62" y="382" width="376" height="5" rx="2.5" fill="#FFFFFF" opacity="0.90"/>
-    <path d="M 148,382 L 148,360 L 250,316 L 352,360 L 352,382 Z" fill="#FFFFFF" opacity="0.20"/>
-    <path d="M 148,360 L 250,316 L 352,360"
-          fill="none" stroke="#FFFFFF" stroke-width="3.5"
-          stroke-linejoin="round" stroke-linecap="round"/>
+  <g clip-path="url(#ic)">
+    <path d="M 268,263 L 281,305 L 319,284 L 299,322 L 340,335 L 299,348 L 319,386 L 281,366 L 268,407 L 255,366 L 217,386 L 238,348 L 196,335 L 238,322 L 217,284 L 255,305 Z" fill="#FFFFFF" fill-opacity="0.2"/>
+    <path d="M 220,392 C 224,320 214,245 218,140" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M 218,140 C 190,128 108,180 100,192 C 110,200 192,154 218,140 Z" fill="#FFFFFF"/>
+    <path d="M 218,140 C 192,116 145,92 135,85 C 146,98 198,130 218,140 Z" fill="#FFFFFF"/>
+    <path d="M 218,140 C 207,110 174,62 168,52 C 180,70 218,126 220,140 Z" fill="#FFFFFF"/>
+    <path d="M 218,140 C 212,108 215,70 218,44 C 224,70 224,108 220,140 Z" fill="#FFFFFF"/>
+    <path d="M 218,140 C 230,108 256,65 264,55 C 266,70 228,124 220,140 Z" fill="#FFFFFF"/>
+    <path d="M 218,140 C 250,120 290,97 302,90 C 294,104 244,133 220,140 Z" fill="#FFFFFF"/>
+    <path d="M 218,140 C 255,134 308,145 322,162 C 308,172 250,150 218,140 Z" fill="#FFFFFF"/>
+    <circle cx="214" cy="147" r="7" fill="#FFFFFF" fill-opacity="0.7"/>
+    <circle cx="223" cy="144" r="6.5" fill="#FFFFFF" fill-opacity="0.7"/>
+    <circle cx="218" cy="153" r="6" fill="#FFFFFF" fill-opacity="0.7"/>
+    <path d="M 315,392 C 315,358 314,322 312,278" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+    <path d="M 312,278 C 290,272 260,278 255,286 C 261,293 291,284 312,278 Z" fill="#FFFFFF"/>
+    <path d="M 312,278 C 297,263 276,250 272,244 C 278,254 298,270 312,278 Z" fill="#FFFFFF"/>
+    <path d="M 312,278 C 308,258 310,242 312,234 C 316,242 316,260 312,278 Z" fill="#FFFFFF"/>
+    <path d="M 312,278 C 326,262 344,252 352,246 C 346,256 324,270 312,278 Z" fill="#FFFFFF"/>
+    <path d="M 312,278 C 334,273 362,278 368,285 C 362,292 332,283 312,278 Z" fill="#FFFFFF"/>
+    <circle cx="309" cy="282" r="5" fill="#FFFFFF" fill-opacity="0.7"/>
+    <circle cx="317" cy="280" r="4.5" fill="#FFFFFF" fill-opacity="0.7"/>
+    <rect x="75" y="388" width="350" height="5" rx="2.5" fill="#FFFFFF"/>
+    <path d="M 148,390 L 148,360 L 250,316 L 352,360 L 352,390 Z" fill="#FFFFFF"/>
+    <path d="M 148,360 L 250,316 L 352,360" fill="none" stroke="#111111" stroke-opacity="0.3" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
 </svg>
