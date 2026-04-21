@@ -1,77 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 108" role="img" aria-label="Palm Crest Roofing">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Palm Crest Roofing">
   <defs>
-    <linearGradient id="pcSunset" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F4A261"/>
-      <stop offset="60%" stop-color="#E76F51"/>
+    <linearGradient id="sunGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#FDB347"/>
+      <stop offset="55%"  stop-color="#E76F51"/>
       <stop offset="100%" stop-color="#C44536"/>
     </linearGradient>
-    <linearGradient id="pcPalm" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#52B788"/>
-      <stop offset="100%" stop-color="#1B4332"/>
-    </linearGradient>
-    <linearGradient id="pcText" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#CFD8D3"/>
-    </linearGradient>
-    <linearGradient id="pcTrunk" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#A0732A"/>
-      <stop offset="100%" stop-color="#5C3D0A"/>
-    </linearGradient>
+    <clipPath id="innerClip">
+      <circle cx="250" cy="250" r="170"/>
+    </clipPath>
   </defs>
 
-  <!-- Mark: roof crest + sun + palm -->
-  <g transform="translate(8,7)">
-    <!-- Sun disc -->
-    <circle cx="54" cy="60" r="28" fill="url(#pcSunset)" opacity="0.88"/>
+  <!-- Outer ring fill -->
+  <circle cx="250" cy="250" r="230" fill="#EDE7DA"/>
+  <!-- Outer border -->
+  <circle cx="250" cy="250" r="230" fill="none" stroke="#0F1B18" stroke-width="5"/>
+  <!-- Inner circle -->
+  <circle cx="250" cy="250" r="170" fill="#FAFAF6"/>
+  <!-- Inner border -->
+  <circle cx="250" cy="250" r="170" fill="none" stroke="#0F1B18" stroke-width="3"/>
 
-    <!-- Palm tree drawn BEFORE roof so roof overlaps lower trunk -->
-    <!-- Curved S-trunk from bottom-left leaning up toward roof peak -->
-    <path d="M 16 92 C 20 74 26 56 32 44 C 36 36 40 30 42 24"
-          fill="none" stroke="url(#pcTrunk)" stroke-width="4.5" stroke-linecap="round"/>
-    <!-- Fronds emanating from trunk tip (42, 24) -->
-    <g fill="url(#pcPalm)" opacity="0.96">
-      <!-- Long left frond -->
-      <path d="M 42 24 C 30 16 14 14 4 20 C 16 20 28 22 40 30 Z"/>
-      <!-- Drooping left frond -->
-      <path d="M 42 24 C 34 20 20 22 10 30 C 22 28 34 26 41 32 Z" opacity="0.82"/>
-      <!-- Upper-left frond -->
-      <path d="M 42 24 C 32 12 22 4 12 2 C 22 10 32 16 40 26 Z"/>
-      <!-- Top frond -->
-      <path d="M 42 24 C 40 10 40 1 42 -3 C 44 1 44 10 44 26 Z"/>
-      <!-- Upper-right frond -->
-      <path d="M 42 24 C 52 12 62 6 70 4 C 62 12 54 18 44 26 Z"/>
+  <!-- Bullet dots at 9-o-clock and 3-o-clock on the ring -->
+  <circle cx="20"  cy="250" r="7" fill="#E76F51"/>
+  <circle cx="480" cy="250" r="7" fill="#E76F51"/>
+
+  <!-- Arc text paths on ring midpoint r=204 -->
+  <!-- Top arc: sweep=1 (clockwise), goes from left through top to right -->
+  <path id="topArc"    d="M 46,250 A 204,204 0 0,1 454,250" fill="none"/>
+  <!-- Bottom arc: sweep=0 (counterclockwise), goes from left through bottom to right -->
+  <path id="bottomArc" d="M 46,250 A 204,204 0 0,0 454,250" fill="none"/>
+
+  <!-- TOP TEXT -->
+  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
+        font-size="30" font-weight="800" letter-spacing="4" fill="#0F1B18">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
+  </text>
+
+  <!-- BOTTOM TEXT -->
+  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
+        font-size="27" font-weight="700" letter-spacing="6" fill="#E76F51">
+    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
+  </text>
+
+  <!-- SCENE clipped to inner circle -->
+  <g clip-path="url(#innerClip)">
+
+    <!-- 1. Sun disc (back layer) -->
+    <circle cx="268" cy="304" r="105" fill="url(#sunGrad)"/>
+
+    <!-- 2. Main tall palm (center-left, drawn over sun) -->
+    <!-- S-curve trunk from ground (198,342) up to crown (214,128) -->
+    <path d="M 198 342 C 202 316 198 290 194 264 C 190 240 196 214 214 128"
+          fill="none" stroke="#1B4332" stroke-width="9" stroke-linecap="round"/>
+    <g fill="#1B4332">
+      <!-- far-left drooping frond -->
+      <path d="M 214 128 C 188 140 158 146 132 160 C 158 142 186 134 212 134 Z"/>
+      <!-- upper-left frond -->
+      <path d="M 214 128 C 190 110 164  96 142  88 C 166 100 190 112 212 126 Z"/>
+      <!-- top-left angled frond -->
+      <path d="M 214 128 C 198 100 192  76 190  58 C 198  80 206 104 214 126 Z"/>
+      <!-- near-vertical top frond -->
+      <path d="M 214 128 C 212 100 212  76 212  58 C 216  76 216 102 216 126 Z"/>
+      <!-- top-right frond -->
+      <path d="M 214 128 C 234 106 252  94 268  90 C 254 104 236 116 216 126 Z"/>
+      <!-- right drooping frond (arcs over sun, natural) -->
+      <path d="M 214 128 C 246 134 270 148 282 164 C 260 146 236 138 216 132 Z"/>
     </g>
-    <!-- Coconut cluster at trunk-frond junction -->
-    <circle cx="40" cy="27" r="2.4" fill="#7A4F1E"/>
-    <circle cx="44" cy="26" r="2.1" fill="#7A4F1E"/>
-    <circle cx="42" cy="30" r="2" fill="#7A4F1E"/>
+    <!-- Coconut cluster -->
+    <circle cx="210" cy="134" r="6.5" fill="#5C3D0E"/>
+    <circle cx="219" cy="131" r="6"   fill="#5C3D0E"/>
 
-    <!-- Roof crest drawn OVER palm -->
-    <path d="M 4 92 L 52 22 L 100 92 Z"
-          fill="none" stroke="#0F1B18" stroke-width="7" stroke-linejoin="round"/>
-    <path d="M 12 92 L 52 30 L 92 92"
-          fill="none" stroke="url(#pcSunset)" stroke-width="4" stroke-linejoin="round" opacity="0.95"/>
-    <!-- Ridge cap highlight -->
-    <path d="M 52 22 L 52 30" stroke="#FFD6A5" stroke-width="3" stroke-linecap="round"/>
-  </g>
+    <!-- 3. Small palm (right side, shorter) -->
+    <path d="M 318 342 C 316 322 314 306 312 288"
+          fill="none" stroke="#1B4332" stroke-width="6" stroke-linecap="round"/>
+    <g fill="#1B4332">
+      <path d="M 312 288 C 294 294 276 298 264 310 C 280 294 298 288 312 292 Z"/>
+      <path d="M 312 288 C 296 272 280 262 268 256 C 284 266 300 276 312 286 Z"/>
+      <path d="M 312 288 C 310 268 312 252 312 240 C 314 254 314 270 314 286 Z"/>
+      <path d="M 312 288 C 330 274 346 268 358 266 C 346 276 330 282 314 286 Z"/>
+      <path d="M 312 288 C 334 292 350 304 354 318 C 338 302 320 294 314 290 Z"/>
+    </g>
+    <circle cx="309" cy="292" r="4.5" fill="#5C3D0E"/>
+    <circle cx="317" cy="290" r="4"   fill="#5C3D0E"/>
 
-  <!-- Wordmark -->
-  <g transform="translate(122,0)">
-    <text x="0" y="52"
-          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
-          font-size="36" font-weight="800" font-style="italic"
-          letter-spacing="1"
-          fill="url(#pcText)">PALM CREST</text>
-    <text x="0" y="78"
-          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
-          font-size="17" font-weight="700"
-          letter-spacing="7"
-          fill="#E76F51">ROOFING</text>
-    <line x1="0" y1="88" x2="295" y2="88" stroke="#2D6A4F" stroke-width="1" opacity="0.6"/>
-    <text x="0" y="101"
-          font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
-          font-size="9" font-weight="600"
-          letter-spacing="3"
-          fill="#94a3b8">CA LIC. #1109337</text>
+    <!-- 4. Ground line -->
+    <rect x="80" y="344" width="340" height="5" fill="#0F1B18" rx="2.5"/>
+
+    <!-- 5. House silhouette (front layer, over palm trunks + sun) -->
+    <!-- Low ranch profile: peak 264,286; eaves at 155/375 y=344 -->
+    <path d="M 148 344 L 148 320 L 180 304 L 264 280 L 348 304 L 380 320 L 380 344 Z"
+          fill="#0F1B18"/>
+    <!-- Coral ridge highlight -->
+    <path d="M 180 304 L 264 280 L 348 304"
+          fill="none" stroke="#E76F51" stroke-width="3.5"
+          stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- Soft gold inner echo -->
+    <path d="M 194 304 L 264 288 L 334 304"
+          fill="none" stroke="#F4A261" stroke-width="1.5"
+          stroke-linejoin="round" opacity="0.45"/>
+
   </g>
 </svg>

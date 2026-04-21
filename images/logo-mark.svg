@@ -1,45 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Palm Crest Roofing mark">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Palm Crest Roofing mark">
   <defs>
-    <linearGradient id="pcmSunset" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FDB347"/>
-      <stop offset="50%" stop-color="#E76F51"/>
+    <linearGradient id="sunMark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#FDB347"/>
+      <stop offset="55%"  stop-color="#E76F51"/>
       <stop offset="100%" stop-color="#C44536"/>
     </linearGradient>
-    <linearGradient id="pcmPalm" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#74C69D"/>
-      <stop offset="100%" stop-color="#1B4332"/>
-    </linearGradient>
-    <linearGradient id="pcmTrunk" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#C49A3C"/>
-      <stop offset="100%" stop-color="#7A5020"/>
-    </linearGradient>
+    <clipPath id="innerClipM">
+      <circle cx="250" cy="250" r="230"/>
+    </clipPath>
   </defs>
-
-  <!-- Palm tree (behind sun) -->
-  <path d="M 10 116 C 16 96 22 76 30 62 C 35 52 40 42 42 32"
-        fill="none" stroke="url(#pcmTrunk)" stroke-width="5" stroke-linecap="round"/>
-  <g fill="url(#pcmPalm)">
-    <path d="M 42 32 C 28 26 12 26 4 32 C 16 28 30 28 40 36 Z"/>
-    <path d="M 42 32 C 30 18 16 10 6 8 C 18 16 30 22 40 30 Z"/>
-    <path d="M 42 32 C 38 16 38 4 40 0 C 42 4 42 16 44 30 Z"/>
-    <path d="M 42 32 C 56 20 68 16 76 18 C 66 22 56 26 44 32 Z"/>
-    <path d="M 42 32 C 58 30 70 36 76 44 C 64 36 52 34 44 34 Z"/>
+  <circle cx="250" cy="250" r="250" fill="#EDE7DA"/>
+  <circle cx="250" cy="250" r="250" fill="none" stroke="#0F1B18" stroke-width="6"/>
+  <circle cx="250" cy="250" r="230" fill="none" stroke="#0F1B18" stroke-width="2"/>
+  <path id="topArcM"    d="M 46,250 A 204,204 0 0,1 454,250" fill="none"/>
+  <path id="bottomArcM" d="M 46,250 A 204,204 0 0,0 454,250" fill="none"/>
+  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
+        font-size="30" font-weight="800" letter-spacing="4" fill="#0F1B18">
+    <textPath href="#topArcM" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
+  </text>
+  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif"
+        font-size="27" font-weight="700" letter-spacing="6" fill="#E76F51">
+    <textPath href="#bottomArcM" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
+  </text>
+  <circle cx="20"  cy="250" r="7" fill="#E76F51"/>
+  <circle cx="480" cy="250" r="7" fill="#E76F51"/>
+  <g clip-path="url(#innerClipM)">
+    <circle cx="268" cy="304" r="105" fill="url(#sunMark)"/>
+    <path d="M 198 342 C 202 316 198 290 194 264 C 190 240 196 214 214 128"
+          fill="none" stroke="#1B4332" stroke-width="9" stroke-linecap="round"/>
+    <g fill="#1B4332">
+      <path d="M 214 128 C 188 140 158 146 132 160 C 158 142 186 134 212 134 Z"/>
+      <path d="M 214 128 C 190 110 164  96 142  88 C 166 100 190 112 212 126 Z"/>
+      <path d="M 214 128 C 198 100 192  76 190  58 C 198  80 206 104 214 126 Z"/>
+      <path d="M 214 128 C 212 100 212  76 212  58 C 216  76 216 102 216 126 Z"/>
+      <path d="M 214 128 C 234 106 252  94 268  90 C 254 104 236 116 216 126 Z"/>
+      <path d="M 214 128 C 246 134 270 148 282 164 C 260 146 236 138 216 132 Z"/>
+    </g>
+    <circle cx="210" cy="134" r="6.5" fill="#5C3D0E"/>
+    <circle cx="219" cy="131" r="6"   fill="#5C3D0E"/>
+    <path d="M 318 342 C 316 322 314 306 312 288"
+          fill="none" stroke="#1B4332" stroke-width="6" stroke-linecap="round"/>
+    <g fill="#1B4332">
+      <path d="M 312 288 C 294 294 276 298 264 310 C 280 294 298 288 312 292 Z"/>
+      <path d="M 312 288 C 296 272 280 262 268 256 C 284 266 300 276 312 286 Z"/>
+      <path d="M 312 288 C 310 268 312 252 312 240 C 314 254 314 270 314 286 Z"/>
+      <path d="M 312 288 C 330 274 346 268 358 266 C 346 276 330 282 314 286 Z"/>
+      <path d="M 312 288 C 334 292 350 304 354 318 C 338 302 320 294 314 290 Z"/>
+    </g>
+    <circle cx="309" cy="292" r="4.5" fill="#5C3D0E"/>
+    <circle cx="317" cy="290" r="4"   fill="#5C3D0E"/>
+    <rect x="80" y="344" width="340" height="5" fill="#0F1B18" rx="2.5"/>
+    <path d="M 148 344 L 148 320 L 180 304 L 264 280 L 348 304 L 380 320 L 380 344 Z"
+          fill="#0F1B18"/>
+    <path d="M 180 304 L 264 280 L 348 304"
+          fill="none" stroke="#E76F51" stroke-width="3.5"
+          stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 194 304 L 264 288 L 334 304"
+          fill="none" stroke="#F4A261" stroke-width="1.5"
+          stroke-linejoin="round" opacity="0.45"/>
   </g>
-  <circle cx="39" cy="35" r="3" fill="#7A4F1E"/>
-  <circle cx="44" cy="33" r="2.6" fill="#7A4F1E"/>
-
-  <!-- Sun disc (in front of palm) -->
-  <circle cx="68" cy="72" r="40" fill="url(#pcmSunset)"/>
-
-  <!-- House roofline silhouette (in front of sun) -->
-  <path d="M 0 116 L 0 88 L 24 68 L 30 74 L 60 26 L 90 74 L 96 68 L 120 88 L 120 116 Z"
-        fill="#0D1912"/>
-  <!-- Ridge highlight -->
-  <path d="M 0 88 L 24 68 L 30 74 L 60 26 L 90 74 L 96 68 L 120 88"
-        fill="none" stroke="#E76F51" stroke-width="2.5"
-        stroke-linejoin="round" stroke-linecap="round"/>
-  <!-- Inner ridge echo -->
-  <path d="M 8 88 L 26 72 L 60 34 L 94 72 L 112 88"
-        fill="none" stroke="#F4A261" stroke-width="1.5"
-        stroke-linejoin="round" opacity="0.5"/>
 </svg>
