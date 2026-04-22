@@ -9,7 +9,7 @@
   </defs>
   <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
   <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
-            fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="3" stroke-linejoin="miter"/>
+            fill="none" stroke="#3D1455" stroke-opacity="0.25" stroke-width="3" stroke-linejoin="miter"/>
   <!-- Trunk -->
   <path d="M 177,88 C 177,76 178,62 178,45 L 182,45 C 182,62 183,76 183,88 Z"
         fill="url(#pg)"/>
@@ -22,10 +22,10 @@
   <!-- PALM · tree · CREST inline -->
   <text x="158" y="88" text-anchor="end"
         font-family="Montserrat,sans-serif"
-        font-size="32" font-weight="400" fill="#FFFFFF">PALM</text>
+        font-size="40" font-weight="400" fill="#3D1455">PALM</text>
   <text x="202" y="88" text-anchor="start"
         font-family="Montserrat,sans-serif"
-        font-size="32" font-weight="400" fill="#FFFFFF">CREST</text>
+        font-size="40" font-weight="400" fill="#3D1455">CREST</text>
   <text x="180" y="108" text-anchor="middle"
         font-family="Montserrat,Arial,sans-serif"
         font-size="16" font-weight="700" letter-spacing="6" fill="#E07018">ROOFING</text>
