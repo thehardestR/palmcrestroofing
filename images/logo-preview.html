@@ -1,21 +1,142 @@
-﻿<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8"><title>Logo Preview</title>
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
 <style>
-  body { margin: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; gap: 40px; }
-  .light { background: #fff; padding: 40px 60px; border-radius: 12px; box-shadow: 0 2px 16px rgba(0,0,0,.1); }
-  .dark  { background: #1a0a2e; padding: 40px 60px; border-radius: 12px; }
-  h3 { margin: 0 0 16px; font-family: sans-serif; color: #666; text-align: center; }
-</style>
-</head>
-<body style="background:#f0ede8">
-  <div class="light">
-    <h3>Color version (header)</h3>
-    <img src="logo.svg" height="100">
-  </div>
-  <div class="dark">
-    <h3 style="color:#aaa">White version (footer)</h3>
-    <img src="logo-white.svg" height="100">
-  </div>
-</body>
-</html>
+body{margin:0;background:#eceae6;display:flex;flex-direction:column;align-items:center;gap:20px;padding:28px}
+.row{display:flex;gap:20px;align-items:center}
+.light{background:#fff;padding:24px 40px;border-radius:10px;box-shadow:0 2px 14px rgba(0,0,0,.12)}
+.dark{background:#162816;padding:24px 40px;border-radius:10px}
+</style></head><body>
+<div class="row">
+  <div class="light"><svg width="360" height="115" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 115" role="img" aria-label="Palm Crest Roofing">
+  <defs>
+    <linearGradient id="pg" x1="180" y1="88" x2="180" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6D1260"/>
+      <stop offset="40%"  stop-color="#C83040"/>
+      <stop offset="72%"  stop-color="#F07020"/>
+      <stop offset="100%" stop-color="#F8C018"/>
+    </linearGradient>
+  </defs>
+  <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
+  <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
+            fill="none" stroke="#3D1455" stroke-opacity="0.25" stroke-width="3" stroke-linejoin="miter"/>
+  <!-- Trunk -->
+  <path d="M 177,88 C 177,76 178,62 178,45 L 182,45 C 182,62 183,76 183,88 Z"
+        fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 153,18 140,45  C 153,32 173,42 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 163,15 153,24  C 163,20 177,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 177,22 173,10 180, 8  C 187,10 183,22 180,45 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 197,15 207,24  C 197,20 183,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 207,18 220,45  C 207,32 187,42 180,47 Z" fill="url(#pg)"/>
+  <circle cx="180" cy="45" r="5" fill="url(#pg)"/>
+  <!-- PALM · tree · CREST inline -->
+  <text x="158" y="88" text-anchor="end"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#3D1455">PALM</text>
+  <text x="202" y="88" text-anchor="start"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#3D1455">CREST</text>
+  <text x="180" y="108" text-anchor="middle"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="16" font-weight="700" letter-spacing="6" fill="#E07018">ROOFING</text>
+</svg></div>
+  <div class="dark"><svg width="360" height="115" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 115" role="img" aria-label="Palm Crest Roofing">
+  <defs>
+    <linearGradient id="pg" x1="180" y1="88" x2="180" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6D1260"/>
+      <stop offset="40%"  stop-color="#C83040"/>
+      <stop offset="72%"  stop-color="#F07020"/>
+      <stop offset="100%" stop-color="#F8C018"/>
+    </linearGradient>
+  </defs>
+  <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
+  <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
+            fill="none" stroke="rgba(255,255,255,0.35)" stroke-opacity="0.25" stroke-width="3" stroke-linejoin="miter"/>
+  <!-- Trunk -->
+  <path d="M 177,88 C 177,76 178,62 178,45 L 182,45 C 182,62 183,76 183,88 Z"
+        fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 153,18 140,45  C 153,32 173,42 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 163,15 153,24  C 163,20 177,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 177,22 173,10 180, 8  C 187,10 183,22 180,45 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 197,15 207,24  C 197,20 183,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 207,18 220,45  C 207,32 187,42 180,47 Z" fill="url(#pg)"/>
+  <circle cx="180" cy="45" r="5" fill="url(#pg)"/>
+  <!-- PALM · tree · CREST inline -->
+  <text x="158" y="88" text-anchor="end"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#FFFFFF">PALM</text>
+  <text x="202" y="88" text-anchor="start"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#FFFFFF">CREST</text>
+  <text x="180" y="108" text-anchor="middle"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="16" font-weight="700" letter-spacing="6" fill="#E07018">ROOFING</text>
+</svg></div>
+</div>
+<div class="row">
+  <div class="light"><svg width="202" height="65" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 115" role="img" aria-label="Palm Crest Roofing">
+  <defs>
+    <linearGradient id="pg" x1="180" y1="88" x2="180" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6D1260"/>
+      <stop offset="40%"  stop-color="#C83040"/>
+      <stop offset="72%"  stop-color="#F07020"/>
+      <stop offset="100%" stop-color="#F8C018"/>
+    </linearGradient>
+  </defs>
+  <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
+  <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
+            fill="none" stroke="#3D1455" stroke-opacity="0.25" stroke-width="3" stroke-linejoin="miter"/>
+  <!-- Trunk -->
+  <path d="M 177,88 C 177,76 178,62 178,45 L 182,45 C 182,62 183,76 183,88 Z"
+        fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 153,18 140,45  C 153,32 173,42 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 163,15 153,24  C 163,20 177,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 177,22 173,10 180, 8  C 187,10 183,22 180,45 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 197,15 207,24  C 197,20 183,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 207,18 220,45  C 207,32 187,42 180,47 Z" fill="url(#pg)"/>
+  <circle cx="180" cy="45" r="5" fill="url(#pg)"/>
+  <!-- PALM · tree · CREST inline -->
+  <text x="158" y="88" text-anchor="end"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#3D1455">PALM</text>
+  <text x="202" y="88" text-anchor="start"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#3D1455">CREST</text>
+  <text x="180" y="108" text-anchor="middle"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="16" font-weight="700" letter-spacing="6" fill="#E07018">ROOFING</text>
+</svg></div>
+  <div class="dark" style="padding:12px 24px"><svg width="202" height="65" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 115" role="img" aria-label="Palm Crest Roofing">
+  <defs>
+    <linearGradient id="pg" x1="180" y1="88" x2="180" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6D1260"/>
+      <stop offset="40%"  stop-color="#C83040"/>
+      <stop offset="72%"  stop-color="#F07020"/>
+      <stop offset="100%" stop-color="#F8C018"/>
+    </linearGradient>
+  </defs>
+  <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
+  <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
+            fill="none" stroke="rgba(255,255,255,0.35)" stroke-opacity="0.25" stroke-width="3" stroke-linejoin="miter"/>
+  <!-- Trunk -->
+  <path d="M 177,88 C 177,76 178,62 178,45 L 182,45 C 182,62 183,76 183,88 Z"
+        fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 153,18 140,45  C 153,32 173,42 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 163,15 153,24  C 163,20 177,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 177,22 173,10 180, 8  C 187,10 183,22 180,45 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,22 197,15 207,24  C 197,20 183,40 180,47 Z" fill="url(#pg)"/>
+  <path d="M 180,45 C 180,20 207,18 220,45  C 207,32 187,42 180,47 Z" fill="url(#pg)"/>
+  <circle cx="180" cy="45" r="5" fill="url(#pg)"/>
+  <!-- PALM · tree · CREST inline -->
+  <text x="158" y="88" text-anchor="end"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#FFFFFF">PALM</text>
+  <text x="202" y="88" text-anchor="start"
+        font-family="Montserrat,sans-serif"
+        font-size="40" font-weight="400" fill="#FFFFFF">CREST</text>
+  <text x="180" y="108" text-anchor="middle"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="16" font-weight="700" letter-spacing="6" fill="#E07018">ROOFING</text>
+</svg></div>
+</div>
+</body></html>
