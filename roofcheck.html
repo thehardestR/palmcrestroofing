@@ -316,8 +316,8 @@
             if (uploadedFiles.length < 5) uploadArea.style.display = 'block';
         }
 
-        // Resize image to max 1200px on longest side, JPEG quality 0.85
-        function compressImage(file) {
+        // Compress and convert to base64 in the browser (avoids Worker CPU limit)
+        function compressImageToBase64(file) {
             return new Promise((resolve) => {
                 const img = new Image();
                 const url = URL.createObjectURL(file);
@@ -332,9 +332,9 @@
                     const canvas = document.createElement('canvas');
                     canvas.width = width; canvas.height = height;
                     canvas.getContext('2d').drawImage(img, 0, 0, width, height);
-                    canvas.toBlob(blob => resolve(new File([blob], file.name, { type: 'image/jpeg' })), 'image/jpeg', 0.85);
+                    resolve(canvas.toDataURL('image/jpeg', 0.85));
                 };
-                img.onerror = () => { URL.revokeObjectURL(url); resolve(file); }; // fallback: send original
+                img.onerror = () => { URL.revokeObjectURL(url); resolve(null); };
                 img.src = url;
             });
         }
@@ -372,11 +372,11 @@
             formData.append('has_leak', this.has_leak.value);
             this.querySelectorAll('input[name="issues"]:checked').forEach(i => formData.append('issues', i.value));
 
-            // Compress images before sending
+            // Convert first photo to base64 in browser (Worker receives string, no binary processing)
             if (uploadedFiles.length > 0) {
                 submitBtn.innerHTML = '🗜️ Compressing photos...<br><small style="font-size:12px;opacity:0.8">Optimizing for upload</small>';
-                const compressed = await Promise.all(uploadedFiles.map(compressImage));
-                compressed.forEach(file => formData.append('photos', file));
+                const base64 = await compressImageToBase64(uploadedFiles[0]);
+                if (base64) formData.append('photo_base64', base64);
             }
 
             try {
