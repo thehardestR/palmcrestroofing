@@ -10,8 +10,8 @@
   <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
   <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
             fill="none" stroke="rgba(255,255,255,0.35)" stroke-opacity="0.25" stroke-width="3" stroke-linejoin="miter"/>
-  <!-- Trunk — curved lean: base right of center, crown at center -->
-  <path d="M 181,88 C 188,72 184,58 178,45 L 183,45 C 188,58 194,72 188,88 Z"
+  <!-- Trunk — curved lean: base centered on gap midpoint x=180 -->
+  <path d="M 177,88 C 184,72 180,58 178,45 L 183,45 C 187,58 190,72 184,88 Z"
         fill="url(#pg)"/>
   <path d="M 180,45 C 180,20 153,18 140,45  C 153,32 173,42 180,47 Z" fill="url(#pg)"/>
   <path d="M 180,45 C 180,22 163,15 153,24  C 163,20 177,40 180,47 Z" fill="url(#pg)"/>
