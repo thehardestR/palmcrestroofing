@@ -396,7 +396,8 @@
             else if (score <= 8) html = `<strong style="color:#388e3c">✓ Good Condition</strong><br><br>${recommendation.message} We recommend annual inspections to maintain its health.`;
             else html = `<strong style="color:#2e7d32">✓ Excellent Condition</strong><br><br>${recommendation.message}`;
             if (findings && findings.length > 0) html += `<br><br><strong>Key findings:</strong><br>• ${findings.join('<br>• ')}`;
-            if (aiAnalyzed) html += `<br><br><em style="color:#666;font-size:14px">🤖 AI-powered analysis included</em>`;
+            if (aiAnalyzed) html += `<br><br><em style="color:#666;font-size:14px">🤖 AI image analysis included</em>`;
+            else html += `<br><br><em style="color:#999;font-size:14px">📋 Scored from reported details (no photo processed)</em>`;
             document.querySelector('.form-container').classList.add('hidden');
             document.getElementById('resultsContainer').classList.add('active');
             document.getElementById('resultScore').textContent = score + '/10';
