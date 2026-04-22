@@ -1,0 +1,11 @@
+{
+  "slug": "palos-verdes-estates",
+  "city": "Palos Verdes Estates",
+  "cluster": "South Bay",
+  "short_blurb": "Upscale roofing for Palos Verdes Estates homes — tile, metal, and custom work.",
+  "neighborhoods": ["Malaga Cove", "Lunada Bay", "Valmonte", "Montemalaga"],
+  "local_note": "Palos Verdes Estates is a beautifully planned community with strict architectural standards and a strong homeowner association presence. Mediterranean and Spanish Colonial homes dominate the streetscape, and concrete or clay tile is the norm. We're experienced with the PVE Homes Association's approval process and can provide the documentation, samples, and color chips needed for architectural committee sign-off before work begins.",
+  "faqs": [
+    { "q": "How does the PVE Homes Association approval process work for re-roofing?", "a": "The PVE Homes Association requires architectural review for exterior changes including roofing. We provide material samples, manufacturer color specs, and a written project description for your application. We recommend submitting 4–6 weeks before your planned start date." }
+  ]
+}

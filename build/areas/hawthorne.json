@@ -1,0 +1,11 @@
+{
+  "slug": "hawthorne",
+  "city": "Hawthorne",
+  "cluster": "South Bay",
+  "short_blurb": "Roofing services for Hawthorne homes, commercial buildings, and aerospace-corridor properties.",
+  "neighborhoods": ["Hollyglen", "North Hawthorne", "Bodger Park", "Moneta", "Prairie Ave corridor"],
+  "local_note": "Hawthorne is a dense South Bay city with a significant commercial and industrial base around LAX and the aerospace corridor. Residential neighborhoods have a mix of post-war bungalows and some newer townhome developments. We handle flat commercial roofing on industrial and office buildings as well as residential replacements throughout Hawthorne and the surrounding South Bay.",
+  "faqs": [
+    { "q": "Do you work on commercial buildings near the LAX aerospace corridor in Hawthorne?", "a": "Yes. We've done TPO and modified bitumen roofing on commercial and industrial buildings throughout the South Bay, including the Hawthorne/El Segundo area. We work nights and weekends when tenants require it." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "la-mirada",
+  "city": "La Mirada",
+  "cluster": "Southeast LA",
+  "short_blurb": "Dependable roofing services for La Mirada homeowners.",
+  "neighborhoods": ["La Mirada proper", "La Mirada Hills", "Biola University area", "Norwalk adjacent"],
+  "local_note": "La Mirada is a quiet, residential city at the southeast edge of LA County. The community is predominantly single-family homeowners who take pride in their properties. We bring that same pride to every project — clean installation, quality materials, and thorough cleanup. We're licensed in LA County and familiar with La Mirada's permit requirements.",
+  "faqs": [
+    { "q": "Do you offer a workmanship warranty in La Mirada?", "a": "Yes. We provide a written workmanship warranty on every installation. If any leak or defect is caused by our work, we come back and fix it at no charge, no questions asked." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "reseda",
+  "city": "Reseda",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Trusted roofing repairs and replacements in Reseda, CA.",
+  "neighborhoods": ["Reseda", "Lake Balboa adjacent", "Reseda Park", "Tampa corridor"],
+  "local_note": "Reseda has a large inventory of post-war single-family homes and multi-family rentals. Landlords and homeowners alike rely on us for fast, fairly-priced roofing. We handle everything from single-unit repairs after storm damage to full re-roofing of rental duplexes and apartment buildings. We're licensed, bonded, and carry full workers' comp — required documentation provided for any HOA or city permit.",
+  "faqs": [
+    { "q": "Do you work on rental properties and apartment buildings in Reseda?", "a": "Absolutely. We work with landlords and property managers throughout Reseda and the Valley. We carry commercial general liability and workers' comp, and can coordinate work around tenant schedules." }
+  ]
+}

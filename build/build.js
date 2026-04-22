@@ -28,7 +28,7 @@ const HEADER = (prefix = '') => `    <header class="header">
             <a href="tel:8182529422" class="phone-link">📞 818.252.9422</a>
         </div></div>
         <nav class="navbar"><div class="container">
-            <a href="${prefix}index.html" class="logo-link"><img src="${prefix}images/logo.svg" alt="Palm Crest Roofing" width="220" height="42"></a>
+            <a href="${prefix}index.html" class="logo-link"><img src="${prefix}images/logo.svg" alt="Palm Crest Roofing" height="64"></a>
             <button class="nav-toggle" aria-label="Toggle menu"><span></span><span></span><span></span></button>
             <ul class="nav-menu">
                 <li><a href="${prefix}index.html">Home</a></li>

@@ -1,0 +1,11 @@
+{
+  "slug": "malibu",
+  "city": "Malibu",
+  "cluster": "Westside",
+  "short_blurb": "Specialist roofing for Malibu's oceanfront estates, hillside compounds, and fire-zone homes.",
+  "neighborhoods": ["Malibu Colony", "Point Dume", "Malibu Road", "La Costa", "Trancas", "Latigo Canyon"],
+  "local_note": "Malibu presents the most demanding roofing environment in LA County — extreme fire exposure in the Santa Monica Mountains, coastal saltwater corrosion, high winds, and remote hillside access. We spec marine-grade hardware, Class A fire-rated systems throughout, and install with enhanced attachment details on every Malibu project. We've re-roofed extensively in Malibu's fire rebuild zones and are familiar with the LA County Department of Building and Safety's fire rebuild requirements.",
+  "faqs": [
+    { "q": "My Malibu home is in a fire rebuild zone — what are the roofing requirements?", "a": "Fire rebuild projects in Malibu require full Chapter 7A compliance — Class A roofing assembly, ember-resistant venting, metal drip edge, and often fire-rated sheathing beneath. We've completed numerous fire rebuilds in Malibu and can walk you through the specific requirements for your parcel." }
+  ]
+}

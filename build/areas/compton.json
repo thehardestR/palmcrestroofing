@@ -1,0 +1,11 @@
+{
+  "slug": "compton",
+  "city": "Compton",
+  "cluster": "Southeast LA",
+  "short_blurb": "Licensed roofing contractor serving Compton homeowners and businesses.",
+  "neighborhoods": ["Compton proper", "Richland Farms", "East Compton", "Magnolia Park"],
+  "local_note": "Compton is experiencing reinvestment and renovation activity, and roofing is often a key part of property improvements. We work throughout Compton on residential replacements and commercial flat-roof projects. We're licensed in LA County, carry full insurance, and deliver quality work that holds up — not the cut-rate jobs that fail in two years.",
+  "faqs": [
+    { "q": "How can I verify your license before hiring you in Compton?", "a": "Our CSLB license number is #1109337. You can verify it instantly at the California State License Board's website at cslb.ca.gov. Always verify any contractor's license before hiring." }
+  ]
+}

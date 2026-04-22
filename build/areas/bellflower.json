@@ -1,0 +1,11 @@
+{
+  "slug": "bellflower",
+  "city": "Bellflower",
+  "cluster": "Southeast LA",
+  "short_blurb": "Licensed roofing services for Bellflower homes and commercial buildings.",
+  "neighborhoods": ["Bellflower proper", "Lakewood adjacent", "Downey adjacent", "Norwalk adjacent"],
+  "local_note": "Bellflower is a working-class city with a mix of post-war bungalows, duplexes, and small commercial buildings. We serve homeowners and landlords throughout Bellflower with straightforward, fairly-priced roofing. No upsells, no pressure — just honest assessments and quality work.",
+  "faqs": [
+    { "q": "Do you work on duplexes and small apartment buildings in Bellflower?", "a": "Absolutely. We do multi-unit residential roofing throughout Southeast LA County. We coordinate with tenants and property managers and handle all permits and inspections." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "carson",
+  "city": "Carson",
+  "cluster": "South Bay",
+  "short_blurb": "Roofing repairs and replacement for Carson homes and commercial buildings.",
+  "neighborhoods": ["Carson proper", "Del Amo", "Dominguez Hills", "Carson Street corridor"],
+  "local_note": "Carson is a large South Bay city with significant residential neighborhoods and major commercial and industrial zones near the 405 and 110 freeways. Residential roofs in Carson tend to be flat or low-slope due to the area's housing styles, and many have aging modified bitumen or built-up roofs that need replacement. We replace these cleanly with modern TPO or modified bitumen systems with full manufacturer warranties.",
+  "faqs": [
+    { "q": "What's the best flat roof replacement option for my Carson home?", "a": "For residential flat roofs in Carson, we most commonly install TPO (heat-welded seams, 20-year warranty) or peel-and-stick modified bitumen. We'll give you a comparison with pros and cons for your specific situation." }
+  ]
+}

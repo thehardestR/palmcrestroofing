@@ -1,0 +1,11 @@
+{
+  "slug": "north-hollywood",
+  "city": "North Hollywood",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Expert roofing in North Hollywood — repairs, replacements, and new installs.",
+  "neighborhoods": ["NoHo Arts District", "Toluca Lake", "Lankershim", "Caballero", "Valley Village"],
+  "local_note": "North Hollywood's roofing stock ranges from mid-century ranch homes in the flats to newer condos near the NoHo Arts District. The area sees intense summer heat, and many older homes have original composition shingles that are cracked and granule-depleted. We do thorough free inspections and can often extend roof life with targeted repairs before a full replacement is needed.",
+  "faqs": [
+    { "q": "My North Hollywood home was built in the 1960s — do I need a full replacement?", "a": "Not necessarily. We'll inspect attic ventilation, decking condition, flashing, and shingle life. Many 1960s homes in NoHo just need ridge vent upgrades and flashing repairs rather than a full tear-off." }
+  ]
+}

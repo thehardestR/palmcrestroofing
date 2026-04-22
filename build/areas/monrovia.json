@@ -1,0 +1,11 @@
+{
+  "slug": "monrovia",
+  "city": "Monrovia",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Quality roofing services for Monrovia homes and foothills properties.",
+  "neighborhoods": ["Old Town Monrovia", "Monrovia Foothills", "Bradbury adjacent", "Mayflower Village"],
+  "local_note": "Monrovia's historic Old Town and foothill neighborhoods have distinctive home styles that call for careful material selection. The foothills above Monrovia Canyon Park are in fire hazard zones requiring Class A assemblies. We're experienced with both the character-home work in the flats and the fire-zone compliance requirements in the upper neighborhoods, delivering roofs that look right and meet code.",
+  "faqs": [
+    { "q": "Can you match the look of my historic Monrovia Craftsman while meeting fire code?", "a": "Yes. We can install Class A-rated composition shingles or concrete tile that replicates the profile of your existing roof while meeting VHFHSZ requirements. We'll show you samples before any work begins." }
+  ]
+}

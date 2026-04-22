@@ -1,0 +1,11 @@
+{
+  "slug": "gardena",
+  "city": "Gardena",
+  "cluster": "South Bay",
+  "short_blurb": "Dependable roofing services for Gardena homes and commercial properties.",
+  "neighborhoods": ["Gardena proper", "Moneta", "South Bay adjacent", "Compton adjacent"],
+  "local_note": "Gardena is a mid-South Bay city with a diverse housing stock and a significant commercial base along Vermont and Western Avenues. The area has many 1950s–70s homes whose original roofs have long exceeded their design life. We provide honest, cost-effective roofing and use premium manufacturer materials backed by 25–50 year product warranties.",
+  "faqs": [
+    { "q": "What shingle warranty do you offer in Gardena?", "a": "We install CertainTeed, Owens Corning, and GAF architectural shingles with 30–50 year manufacturer warranties. We also provide a separate workmanship warranty on our labor. All warranty documentation is provided at project completion." }
+  ]
+}

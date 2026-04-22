@@ -1,0 +1,11 @@
+{
+  "slug": "van-nuys",
+  "city": "Van Nuys",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Affordable, quality roofing for Van Nuys homeowners and commercial property owners.",
+  "neighborhoods": ["Van Nuys", "Panorama City", "Lake Balboa", "Sepulveda", "Valley Glen"],
+  "local_note": "Van Nuys is one of the densest communities in the Valley, with a large stock of post-war bungalows, apartment complexes, and commercial strip centers. Flat and low-slope roofs are especially common here — we install TPO, modified bitumen, and foam roofing systems suited to the Valley's summer heat. Many Van Nuys roofs have lived past their 20-year lifespan and are overdue for replacement.",
+  "faqs": [
+    { "q": "What roof types are most common in Van Nuys?", "a": "Flat and low-slope systems on apartments and commercial buildings, plus composition shingle on single-family homes from the 1950s–70s. We handle all of these and can evaluate which system is best for your specific roof pitch and building type." }
+  ]
+}

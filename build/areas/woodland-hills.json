@@ -1,0 +1,11 @@
+{
+  "slug": "woodland-hills",
+  "city": "Woodland Hills",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Expert roofing for Woodland Hills homes, hillside properties, and commercial buildings.",
+  "neighborhoods": ["Woodland Hills proper", "West Hills adjacent", "Warner Center", "Walnut Acres", "Canoga Park adjacent"],
+  "local_note": "Woodland Hills is a fire-adjacent community with many homes in Very High Fire Hazard Severity Zones near the Santa Monica Mountains. We specialize in Chapter 7A-compliant roofing — Class A systems, ember-resistant venting, and metal drip edge — that protect against ember intrusion. The Warner Center commercial corridor also keeps us busy with flat-roof TPO and modified bitumen work on office and retail buildings.",
+  "faqs": [
+    { "q": "Is Woodland Hills in a fire hazard zone?", "a": "Many Woodland Hills neighborhoods bordering the Santa Monica Mountains are in Very High Fire Hazard Severity Zones. We install Class A rated roofing systems and can walk you through the Chapter 7A requirements that apply to your address." }
+  ]
+}

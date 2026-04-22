@@ -1,0 +1,11 @@
+{
+  "slug": "lawndale",
+  "city": "Lawndale",
+  "cluster": "South Bay",
+  "short_blurb": "Roofing services for Lawndale homes and commercial properties — licensed and affordable.",
+  "neighborhoods": ["Lawndale proper", "Hawthorne adjacent", "Inglewood adjacent", "Redondo Beach adjacent"],
+  "local_note": "Lawndale is a small but dense South Bay city with a largely residential character and some commercial strips. Many homes here are rental or investment properties with deferred maintenance roofing. We work efficiently on standard-size homes and can often complete a shingle replacement in a single day, minimizing disruption for landlords and tenants alike.",
+  "faqs": [
+    { "q": "Is a roofing permit required in Lawndale?", "a": "Yes. The City of Lawndale requires a permit for roof replacements. We pull all permits and schedule city inspections as part of our standard process — no extra charge." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "encino",
+  "city": "Encino",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Quality roofing for Encino estates, ranch homes, and commercial buildings.",
+  "neighborhoods": ["Royal Oaks", "Encino Hills", "Balboa Highlands", "White Oak", "Amestoy Estates"],
+  "local_note": "Encino is home to some of the Valley's most prestigious properties, including large ranch estates and hillside homes in Encino Hills. Many of these homes have concrete tile roofs over 20 years old that need full system replacement. We work with HOAs, estate managers, and individual homeowners — always delivering clean job sites and quality materials from top manufacturers.",
+  "faqs": [
+    { "q": "Can you match my existing concrete tile profile in Encino?", "a": "In most cases yes. We carry Boral, Eagle Roofing, and MonierLifetile profiles and can color-match or blend new sections into existing roofs when doing partial repairs on landmark tile systems." }
+  ]
+}

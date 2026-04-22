@@ -1,0 +1,11 @@
+{
+  "slug": "norwalk",
+  "city": "Norwalk",
+  "cluster": "Southeast LA",
+  "short_blurb": "Roofing repairs and replacement in Norwalk — licensed, bonded, and insured.",
+  "neighborhoods": ["Norwalk proper", "Cerritos adjacent", "Santa Fe Springs adjacent", "Bellflower adjacent"],
+  "local_note": "Norwalk is a large southeast LA County city with a predominantly residential character and a high proportion of homeowners. Many Norwalk homes were built in the 1950s–60s and have roofs at or past end of life. We're active throughout Norwalk with free inspections and competitive pricing on full replacements.",
+  "faqs": [
+    { "q": "What's included in your free roof inspection in Norwalk?", "a": "We inspect all roof surfaces, flashings, penetrations, gutters, fascia, and the attic interior for signs of moisture intrusion. You receive a written report with photos documenting every finding." }
+  ]
+}

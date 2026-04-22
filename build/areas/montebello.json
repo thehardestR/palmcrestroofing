@@ -1,0 +1,11 @@
+{
+  "slug": "montebello",
+  "city": "Montebello",
+  "cluster": "Southeast LA",
+  "short_blurb": "Full-service roofing for Montebello homes and commercial properties.",
+  "neighborhoods": ["North Montebello", "South Montebello", "Montebello Hills", "Garfield Ave corridor"],
+  "local_note": "Montebello sits along the 60 freeway in the southeast San Gabriel Valley, with both flatland neighborhoods and some hillside properties in Montebello Hills. The city's older housing stock has roofs well into their third decade. We handle full replacements, targeted repairs, and flat-roof work on the commercial strip along Garfield Ave and the Montebello Town Center corridor.",
+  "faqs": [
+    { "q": "How do I know if I need a repair or a full replacement in Montebello?", "a": "Age and condition both matter. We inspect the entire roof — not just report what you already know is leaking. We'll give you a transparent assessment with photos and explain exactly what we found and why we're recommending what we're recommending." }
+  ]
+}

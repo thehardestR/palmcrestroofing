@@ -1,0 +1,11 @@
+{
+  "slug": "hacienda-heights",
+  "city": "Hacienda Heights",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Reliable roofing for Hacienda Heights homes and hillside properties.",
+  "neighborhoods": ["Hacienda Heights", "Puente Hills adjacent", "Avocado Heights adjacent", "Rowland Heights adjacent"],
+  "local_note": "Hacienda Heights is an unincorporated hillside community with many two-story and split-level homes on sloped terrain. Steep-pitch work is our specialty — we use appropriate safety systems and access equipment on every job. The area's proximity to the Puente Hills also places some parcels in elevated fire-risk zones, and we install compliant Class A systems for those properties.",
+  "faqs": [
+    { "q": "Can you work safely on steep-pitched roofs in Hacienda Heights?", "a": "Yes. Our crews are trained and equipped for steep-slope work with OSHA-compliant fall protection on every job. We don't cut corners on safety, which protects both our workers and your property." }
+  ]
+}

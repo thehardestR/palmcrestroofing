@@ -1,0 +1,11 @@
+{
+  "slug": "porter-ranch",
+  "city": "Porter Ranch",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "High-end roofing services for Porter Ranch homes and master-planned communities.",
+  "neighborhoods": ["Porter Ranch", "The Vineyards at Porter Ranch", "Sesnon Oaks", "North Porter Ranch"],
+  "local_note": "Porter Ranch is one of the most upscale communities in the San Fernando Valley, with large two-story homes, gated communities, and newer builds from the 2000s onward. Many tiles here are now 15–20 years old and due for underlayment replacement. We specialize in tile re-roofing — stripping and re-setting existing tile over new underlayment — which preserves your existing tile profile and HOA color approval while fully renewing the waterproofing system beneath.",
+  "faqs": [
+    { "q": "Can you re-roof under my existing tile without replacing the tile in Porter Ranch?", "a": "Yes. If your tile is in good structural condition, we can lift, clean, and re-set it over new high-performance underlayment. This is a common and cost-effective option for Porter Ranch homes where the tile style is still HOA-approved." }
+  ]
+}

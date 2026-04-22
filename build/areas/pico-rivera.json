@@ -1,0 +1,11 @@
+{
+  "slug": "pico-rivera",
+  "city": "Pico Rivera",
+  "cluster": "Southeast LA",
+  "short_blurb": "Trusted roofing contractor in Pico Rivera — quality work at honest prices.",
+  "neighborhoods": ["Pico Rivera proper", "Rivera", "Pico", "Whittier adjacent", "Downey adjacent"],
+  "local_note": "Pico Rivera is a predominantly residential city with strong community ties and a high homeownership rate. We've built lasting relationships with Pico Rivera families who refer us to their neighbors after every project. We earn referrals by doing excellent work, cleaning up completely, and standing behind our warranties without argument.",
+  "faqs": [
+    { "q": "Do you have references from homeowners in Pico Rivera?", "a": "Yes. We're happy to provide references from past customers in Pico Rivera and the surrounding area. We also have before-and-after photos from local jobs available on request." }
+  ]
+}

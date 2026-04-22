@@ -1,0 +1,11 @@
+{
+  "slug": "lakewood",
+  "city": "Lakewood",
+  "cluster": "Southeast LA",
+  "short_blurb": "Roofing for Lakewood's classic post-war homes and established neighborhoods.",
+  "neighborhoods": ["Lakewood Village", "Lakewood Park", "Lakewood Mutual", "Carson Park", "Del Amo adjacent"],
+  "local_note": "Lakewood is one of America's first planned residential communities, built in the early 1950s. The housing stock is remarkably uniform — thousands of similar-vintage homes, many now owned by second or third families. If your Lakewood home still has its original or first-replacement roof, it's very likely due for replacement. We've re-roofed extensively throughout Lakewood and know these homes inside and out.",
+  "faqs": [
+    { "q": "My Lakewood home is a 1950s original — what should I expect when re-roofing?", "a": "Most 1950s Lakewood homes need a full tear-off of any overlay layers, decking inspection for soft spots or rot, and new fascia boards in some areas. We document everything we find and discuss any unexpected conditions before proceeding." }
+  ]
+}

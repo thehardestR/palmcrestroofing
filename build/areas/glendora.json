@@ -1,0 +1,11 @@
+{
+  "slug": "glendora",
+  "city": "Glendora",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Premium roofing for Glendora homes, estates, and hillside properties.",
+  "neighborhoods": ["Glendora Village", "North Glendora", "Glendora Highlands", "Badillo Street corridor"],
+  "local_note": "Glendora is known as the 'Pride of the Foothills' — a well-maintained community with high homeowner standards. The North Glendora hillside neighborhoods are in fire hazard zones and have strict requirements for roofing materials and assembly details. We work with Glendora homeowners on Class A compliant re-roofing and can produce the manufacturer's fire certification and test reports often required for permits in hillside zones.",
+  "faqs": [
+    { "q": "What documentation does Glendora require for fire-zone roofing permits?", "a": "Glendora's building department typically requires the Class A fire rating certification and the manufacturer's ICC evaluation report for the roofing assembly. We provide all required documentation as part of our permit package." }
+  ]
+}

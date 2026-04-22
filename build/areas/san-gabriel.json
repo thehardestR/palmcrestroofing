@@ -1,0 +1,11 @@
+{
+  "slug": "san-gabriel",
+  "city": "San Gabriel",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Expert roofing services for San Gabriel homes, missions, and commercial buildings.",
+  "neighborhoods": ["Mission District", "Downtown San Gabriel", "San Gabriel Blvd corridor", "Alhambra adjacent"],
+  "local_note": "San Gabriel's older neighborhoods include Craftsman bungalows, Spanish Colonial Revival homes, and post-war ranches — all with different roofing needs. We're experienced matching older architectural profiles and working carefully around mature landscaping and historically sensitive properties. We also do a lot of commercial flat-roofing on the retail and light commercial buildings along San Gabriel Blvd.",
+  "faqs": [
+    { "q": "Can you work carefully around my mature trees and landscaping in San Gabriel?", "a": "Yes. We use plywood and tarps to protect landscaping during teardown, and our dumpster placement is coordinated to minimize yard impact. We do a thorough cleanup including magnet sweep for nails before we leave." }
+  ]
+}

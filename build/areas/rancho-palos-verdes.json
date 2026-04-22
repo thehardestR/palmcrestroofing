@@ -1,0 +1,11 @@
+{
+  "slug": "rancho-palos-verdes",
+  "city": "Rancho Palos Verdes",
+  "cluster": "South Bay",
+  "short_blurb": "High-end roofing for Rancho Palos Verdes estates, hillside homes, and ocean-view properties.",
+  "neighborhoods": ["Miraleste", "Eastview", "Portuguese Bend", "Ladera Linda", "Crestridge"],
+  "local_note": "Rancho Palos Verdes sits on a dramatic ocean-facing peninsula with some of the most spectacular home sites in Southern California. Ocean exposure at elevation means wind and salt air are constant factors. We specify corrosion-resistant hardware, high-wind fastening systems, and premium materials throughout. Many RPV homes are custom builds with complex roof geometry — we plan carefully and execute precisely on these detailed projects.",
+  "faqs": [
+    { "q": "Can you handle a complex, custom roof on a hillside Rancho Palos Verdes home?", "a": "Yes. We specialize in complex residential roofing with multiple valleys, hips, dormers, and skylights. We do a thorough measurement and plan review before every estimate so there are no surprises during the project." }
+  ]
+}

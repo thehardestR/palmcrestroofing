@@ -1,0 +1,11 @@
+{
+  "slug": "bell",
+  "city": "Bell",
+  "cluster": "Southeast LA",
+  "short_blurb": "Affordable roofing services for Bell homeowners and rental properties.",
+  "neighborhoods": ["Bell proper", "Bell Gardens adjacent", "Huntington Park adjacent", "Maywood adjacent"],
+  "local_note": "Bell is one of the most densely populated small cities in California, with a large renter population and a stock of older residential buildings that have seen deferred maintenance. We provide fast, reliable roofing for Bell homeowners and landlords who need quality work without big-company prices. We're straightforward — you'll know exactly what you're getting before we start.",
+  "faqs": [
+    { "q": "Can you provide a same-week inspection in Bell?", "a": "We do our best to schedule free inspections within 2–3 business days throughout Southeast LA County. Call us and we'll find a time that works for you." }
+  ]
+}

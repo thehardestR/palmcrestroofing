@@ -1,0 +1,11 @@
+{
+  "slug": "huntington-park",
+  "city": "Huntington Park",
+  "cluster": "Southeast LA",
+  "short_blurb": "Licensed roofing in Huntington Park — repairs, tearoffs, and new installations.",
+  "neighborhoods": ["Huntington Park proper", "Lugo Park", "Pacific Blvd corridor", "South Gate adjacent"],
+  "local_note": "Huntington Park is a densely built city just south of Los Angeles. The housing stock includes many older bungalows and small apartment buildings, and the commercial district along Pacific Blvd has numerous flat-roof retail buildings. We handle both residential and commercial work throughout Huntington Park and always perform permitted, code-compliant installations.",
+  "faqs": [
+    { "q": "Do you do flat roof repairs on commercial buildings in Huntington Park?", "a": "Yes. We patch, coat, and replace flat roofs on retail and commercial buildings throughout Southeast LA. We can often extend a flat roof's life with a coating system at a fraction of the cost of full replacement." }
+  ]
+}

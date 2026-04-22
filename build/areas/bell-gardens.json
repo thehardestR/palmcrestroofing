@@ -1,0 +1,11 @@
+{
+  "slug": "bell-gardens",
+  "city": "Bell Gardens",
+  "cluster": "Southeast LA",
+  "short_blurb": "Roofing contractor serving Bell Gardens homes and commercial properties.",
+  "neighborhoods": ["Bell Gardens proper", "Bell adjacent", "Downey adjacent", "Commerce adjacent"],
+  "local_note": "Bell Gardens is a compact Southeast LA city with a strong residential community. The city's older housing inventory has roofs in varying stages of aging, from maintainable-with-repairs to overdue-for-replacement. We size up your situation honestly and give you options at different price points — not just the highest-margin replacement job.",
+  "faqs": [
+    { "q": "What's the average cost of a roof replacement in Bell Gardens?", "a": "Cost varies with roof size, pitch, material, and number of layers to remove. A typical Bell Gardens single-family home ranges from $8,000–$18,000 for a full shingle replacement. We'll give you an exact binding quote after a free on-site inspection." }
+  ]
+}

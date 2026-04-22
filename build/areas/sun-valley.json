@@ -1,0 +1,11 @@
+{
+  "slug": "sun-valley",
+  "city": "Sun Valley",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Affordable roofing for Sun Valley homes, warehouses, and industrial buildings.",
+  "neighborhoods": ["Sun Valley", "Sunland adjacent", "Arleta adjacent", "Tujunga adjacent"],
+  "local_note": "Sun Valley has a large concentration of industrial and warehouse properties alongside residential neighborhoods. We handle both — commercial flat roofing with TPO and modified bitumen on warehouses, and residential shingle and tile work on the surrounding homes. Sun Valley's proximity to the foothills also means wind exposure is a factor; we use enhanced fastening patterns and wind-rated shingle systems.",
+  "faqs": [
+    { "q": "Do you do commercial roofing on industrial buildings in Sun Valley?", "a": "Yes. We regularly work on warehouses, distribution centers, and light industrial buildings throughout Sun Valley and the northeast Valley. We install TPO, modified bitumen, and coating systems on large flat-roof buildings." }
+  ]
+}

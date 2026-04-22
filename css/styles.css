@@ -159,7 +159,7 @@ img { max-width: 100%; height: auto; display: block; }
 .navbar .container { display: flex; justify-content: space-between; align-items: center; }
 
 .logo-link { display: inline-flex; align-items: center; }
-.logo-link img { height: 42px; width: auto; }
+.logo-link img { height: 64px; width: auto; }
 
 .nav-menu { display: flex; align-items: center; gap: 30px; }
 .nav-menu a {

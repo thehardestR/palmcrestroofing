@@ -1,0 +1,11 @@
+{
+  "slug": "san-fernando",
+  "city": "San Fernando",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Roofing repairs and replacement for San Fernando homes and businesses.",
+  "neighborhoods": ["Downtown San Fernando", "Hubbard Street corridor", "Brand Park adjacent", "Mission Hills adjacent"],
+  "local_note": "The City of San Fernando is one of the Valley's oldest incorporated communities, with a housing stock that includes many pre-1960 homes. Older homes often have original roofing layers that need a full tear-off rather than an overlay to meet current code. We handle full tear-offs, dry-rot decking repairs, and complete system replacements — and we pull all permits with the City of San Fernando Building Department.",
+  "faqs": [
+    { "q": "My San Fernando home has two layers of shingles — can you add a third?", "a": "No — California Building Code limits residential roofs to two layers of composition shingle. If you already have two layers, the existing material must be torn off before a new system can be installed. We handle full tear-offs and decking inspection as part of every replacement." }
+  ]
+}

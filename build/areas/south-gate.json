@@ -1,0 +1,11 @@
+{
+  "slug": "south-gate",
+  "city": "South Gate",
+  "cluster": "Southeast LA",
+  "short_blurb": "Affordable licensed roofing in South Gate, CA.",
+  "neighborhoods": ["South Gate proper", "Tweedy Mile", "Hollydale", "Downey adjacent", "Lynwood adjacent"],
+  "local_note": "South Gate is a large, dense city in Southeast LA with a mix of bungalows, apartment buildings, and commercial properties along major thoroughfares. We work throughout South Gate providing honest, affordable roofing with no hidden fees. All estimates are written, detailed, and binding — the price we quote is the price you pay unless you authorize changes.",
+  "faqs": [
+    { "q": "Will you give me a firm written estimate in South Gate?", "a": "Always. Our estimates are detailed and binding. We describe the exact scope — tear-off layers, decking included or excluded, material specifications, and cleanup. No surprise invoices at the end." }
+  ]
+}

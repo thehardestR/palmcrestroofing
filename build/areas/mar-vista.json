@@ -1,0 +1,11 @@
+{
+  "slug": "mar-vista",
+  "city": "Mar Vista",
+  "cluster": "Westside",
+  "short_blurb": "Roofing for Mar Vista homes — from post-war bungalows to modern new builds.",
+  "neighborhoods": ["Mar Vista proper", "Palms adjacent", "Venice adjacent", "Culver City adjacent"],
+  "local_note": "Mar Vista's housing stock spans post-war Craftsman bungalows, mid-century ranches, and a growing inventory of modern spec homes. The neighborhood is close to the coast, so salt-air considerations apply to hardware and flashing selections. We work comfortably across all these home types and ages, from straightforward shingle replacements to complex multi-section modern flat-plus-pitched roofs.",
+  "faqs": [
+    { "q": "My Mar Vista bungalow was built in the 1940s — are there any special considerations?", "a": "Older homes often have skip sheathing (boards with gaps) rather than solid plywood decking. We assess whether to add a solid plywood layer over skip sheathing during your inspection — it's often required for modern shingle installation and improves structual rigidity." }
+  ]
+}

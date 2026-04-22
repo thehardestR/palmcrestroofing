@@ -1,0 +1,11 @@
+{
+  "slug": "paramount",
+  "city": "Paramount",
+  "cluster": "Southeast LA",
+  "short_blurb": "Roofing services for Paramount residential and commercial properties.",
+  "neighborhoods": ["Paramount proper", "Clearwater", "Bellflower adjacent", "Compton adjacent"],
+  "local_note": "Paramount is a small, dense city with a mix of family homes, small apartment buildings, and industrial properties near the 710 freeway. We service all property types — residential, multi-family, and commercial — with the same level of care and licensing. All our work is permitted and inspected.",
+  "faqs": [
+    { "q": "Do you pull permits in Paramount?", "a": "Yes. We pull all required permits with the City of Paramount Building Department for every roofing project. Unpermitted roofing can create problems at resale and void insurance coverage — never let a contractor skip the permit process." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "lomita",
+  "city": "Lomita",
+  "cluster": "South Bay",
+  "short_blurb": "Trustworthy roofing contractor serving Lomita homeowners.",
+  "neighborhoods": ["Lomita proper", "Torrance adjacent", "San Pedro adjacent", "Harbor City adjacent"],
+  "local_note": "Lomita is a small residential city in the South Bay, tucked between Torrance, Harbor City, and the Palos Verdes Peninsula. Many Lomita homes are 1950s–60s originals with shingle roofs well past their service life. We treat every Lomita project with the same attention we give larger jobs — thorough prep, licensed labor, and a clean site at the end of every day.",
+  "faqs": [
+    { "q": "Do you offer free inspections in Lomita?", "a": "Yes — always free, always no-pressure. We inspect, document with photos, and give you a honest written assessment. No appointment fee, no sales pressure." }
+  ]
+}

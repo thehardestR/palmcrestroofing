@@ -1,0 +1,11 @@
+{
+  "slug": "northridge",
+  "city": "Northridge",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Licensed roofing services in Northridge — insurance claims, repairs, and full replacements.",
+  "neighborhoods": ["Northridge", "CSUN area", "Northridge Fashion Center area", "Zelzah Corridor", "Reseda adjacent"],
+  "local_note": "Northridge was the epicenter of the 1994 Northridge Earthquake. While most structural damage from that event has long been remediated, the roofing on many of those rebuilt or repaired homes is now 25–30 years old and due for replacement. We're experienced with insurance-related roofing projects and can work with your adjuster on documentation and scope.",
+  "faqs": [
+    { "q": "Can you help with an insurance claim for my Northridge roof?", "a": "Yes. We work with all major homeowner insurance carriers. We provide detailed photo inspections, scope-of-work documentation, and can meet with your adjuster on site to ensure the proper replacement scope is captured." }
+  ]
+}

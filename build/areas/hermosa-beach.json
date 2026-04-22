@@ -1,0 +1,11 @@
+{
+  "slug": "hermosa-beach",
+  "city": "Hermosa Beach",
+  "cluster": "South Bay",
+  "short_blurb": "Coastal roofing specialist serving Hermosa Beach homes and beach properties.",
+  "neighborhoods": ["Downtown Hermosa", "North End", "South End", "Hill Section"],
+  "local_note": "Hermosa Beach is a compact beach city where nearly every property is within a few blocks of the ocean. Coastal exposure demands corrosion-resistant materials throughout — we spec stainless steel fasteners, aluminum or copper flashings, and ventilation components rated for marine environments. Hill Section homes have elevated views but also elevated wind exposure; we use enhanced fastening patterns on every job here.",
+  "faqs": [
+    { "q": "What roofing materials hold up best in Hermosa Beach's coastal environment?", "a": "Concrete tile, metal roofing, and premium architectural shingles all perform well in coastal conditions when installed with the right corrosion-resistant hardware. We'll specify the right system for your home's exposure level and budget." }
+  ]
+}

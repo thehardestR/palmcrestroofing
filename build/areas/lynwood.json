@@ -1,0 +1,11 @@
+{
+  "slug": "lynwood",
+  "city": "Lynwood",
+  "cluster": "Southeast LA",
+  "short_blurb": "Reliable roofing for Lynwood homes and investment properties.",
+  "neighborhoods": ["Lynwood proper", "Compton adjacent", "South Gate adjacent", "Watts adjacent"],
+  "local_note": "Lynwood has a high proportion of investor-owned and rental properties where deferred maintenance is common. We help landlords and property managers identify and address roofing issues proactively — before they become tenant complaints, code violations, or insurance claims. We provide condition reports and maintenance plans, not just replacement quotes.",
+  "faqs": [
+    { "q": "Can you inspect and report on my rental property's roof condition in Lynwood?", "a": "Yes. We provide written condition reports with photos that document current status and estimate remaining useful life. These are useful for property acquisition due diligence, insurance renewals, and preventive maintenance planning." }
+  ]
+}

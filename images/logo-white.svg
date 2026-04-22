@@ -1,41 +1,47 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Palm Crest Roofing">
-  <defs><clipPath id="ic"><circle cx="250" cy="250" r="188"/></clipPath></defs>
-  <circle cx="250" cy="250" r="246" fill="none" stroke="#FFFFFF" stroke-width="8"/>
-  <circle cx="250" cy="250" r="236" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
-  <circle cx="250" cy="250" r="188" fill="none" stroke="#FFFFFF" stroke-width="5"/>
-  <circle cx="33" cy="250" r="9" fill="#FFFFFF"/>
-  <circle cx="467" cy="250" r="9" fill="#FFFFFF"/>
-  <path id="ta" d="M 33,250 A 217,217 0 0,1 467,250" fill="none"/>
-  <path id="ba" d="M 33,250 A 217,217 0 0,0 467,250" fill="none"/>
-  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="800" letter-spacing="4" fill="#FFFFFF">
-    <textPath href="#ta" startOffset="50%" text-anchor="middle">PALM CREST ROOFING</textPath>
-  </text>
-  <text font-family="Montserrat,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="7" fill="#CCCCCC">
-    <textPath href="#ba" startOffset="50%" text-anchor="middle">PALM CREST</textPath>
-  </text>
-  <g clip-path="url(#ic)">
-    <path d="M 268,263 L 281,305 L 319,284 L 299,322 L 340,335 L 299,348 L 319,386 L 281,366 L 268,407 L 255,366 L 217,386 L 238,348 L 196,335 L 238,322 L 217,284 L 255,305 Z" fill="#FFFFFF" fill-opacity="0.2"/>
-    <path d="M 220,392 C 224,320 214,245 218,140" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
-    <path d="M 218,140 C 190,128 108,180 100,192 C 110,200 192,154 218,140 Z" fill="#FFFFFF"/>
-    <path d="M 218,140 C 192,116 145,92 135,85 C 146,98 198,130 218,140 Z" fill="#FFFFFF"/>
-    <path d="M 218,140 C 207,110 174,62 168,52 C 180,70 218,126 220,140 Z" fill="#FFFFFF"/>
-    <path d="M 218,140 C 212,108 215,70 218,44 C 224,70 224,108 220,140 Z" fill="#FFFFFF"/>
-    <path d="M 218,140 C 230,108 256,65 264,55 C 266,70 228,124 220,140 Z" fill="#FFFFFF"/>
-    <path d="M 218,140 C 250,120 290,97 302,90 C 294,104 244,133 220,140 Z" fill="#FFFFFF"/>
-    <path d="M 218,140 C 255,134 308,145 322,162 C 308,172 250,150 218,140 Z" fill="#FFFFFF"/>
-    <circle cx="214" cy="147" r="7" fill="#FFFFFF" fill-opacity="0.7"/>
-    <circle cx="223" cy="144" r="6.5" fill="#FFFFFF" fill-opacity="0.7"/>
-    <circle cx="218" cy="153" r="6" fill="#FFFFFF" fill-opacity="0.7"/>
-    <path d="M 315,392 C 315,358 314,322 312,278" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
-    <path d="M 312,278 C 290,272 260,278 255,286 C 261,293 291,284 312,278 Z" fill="#FFFFFF"/>
-    <path d="M 312,278 C 297,263 276,250 272,244 C 278,254 298,270 312,278 Z" fill="#FFFFFF"/>
-    <path d="M 312,278 C 308,258 310,242 312,234 C 316,242 316,260 312,278 Z" fill="#FFFFFF"/>
-    <path d="M 312,278 C 326,262 344,252 352,246 C 346,256 324,270 312,278 Z" fill="#FFFFFF"/>
-    <path d="M 312,278 C 334,273 362,278 368,285 C 362,292 332,283 312,278 Z" fill="#FFFFFF"/>
-    <circle cx="309" cy="282" r="5" fill="#FFFFFF" fill-opacity="0.7"/>
-    <circle cx="317" cy="280" r="4.5" fill="#FFFFFF" fill-opacity="0.7"/>
-    <rect x="75" y="388" width="350" height="5" rx="2.5" fill="#FFFFFF"/>
-    <path d="M 148,390 L 148,360 L 250,316 L 352,360 L 352,390 Z" fill="#FFFFFF"/>
-    <path d="M 148,360 L 250,316 L 352,360" fill="none" stroke="#111111" stroke-opacity="0.3" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-  </g>
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 240" role="img" aria-label="Palm Crest Roofing">
+  <defs>
+    <linearGradient id="pg" x1="106" y1="196" x2="116" y2="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#8C1B6E"/>
+      <stop offset="38%"  stop-color="#CB2E58"/>
+      <stop offset="70%"  stop-color="#F06C18"/>
+      <stop offset="100%" stop-color="#F8B418"/>
+    </linearGradient>
+  </defs>
+  <!-- Trunk -->
+  <path d="M 96,196 C 98,168 104,128 108,96 C 110,82 112,74 112,70
+           C 114,74 118,82 120,96 C 122,130 120,168 114,196 Z"
+        fill="url(#pg)"/>
+  <path d="M 118,66 C 78,58 34,88 8,128
+           C 32,106 78,82 108,76 Z" fill="url(#pg)"/>
+  <path d="M 114,76 C 90,70 60,56 34,56
+           C 58,48 92,60 110,62 Z" fill="url(#pg)"/>
+  <path d="M 108,76 C 84,60 66,32 50,18
+           C 72,26 94,48 118,66 Z" fill="url(#pg)"/>
+  <path d="M 106,70 C 94,42 94,16 102,2
+           C 120,12 124,40 120,70 Z" fill="url(#pg)"/>
+  <path d="M 118,66 C 134,42 150,20 154,10
+           C 158,24 150,52 108,76 Z" fill="url(#pg)"/>
+  <path d="M 112,62 C 142,48 170,44 194,50
+           C 168,56 140,70 114,78 Z" fill="url(#pg)"/>
+  <path d="M 118,66 C 152,78 182,94 206,108
+           C 180,92 146,76 106,76 Z" fill="url(#pg)"/>
+  <circle cx="112" cy="70" r="8.5" fill="url(#pg)"/>
+  <!-- House + text in white -->
+  <path d="M 166,158 L 200,136 L 216,120 L 248,136 L 298,162"
+        fill="none" stroke="#FFFFFF" stroke-width="7"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="240" y="122" width="12" height="30" fill="#FFFFFF" rx="1"/>
+  <path d="M 178,158 L 178,196 L 248,196 L 248,158"
+        fill="none" stroke="#FFFFFF" stroke-width="6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="200" y="163" width="24" height="21"
+        fill="none" stroke="#FFFFFF" stroke-width="2.5" rx="1"/>
+  <line x1="212" y1="163" x2="212" y2="184" stroke="#FFFFFF" stroke-width="2"/>
+  <line x1="200" y1="173" x2="224" y2="173" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="154" y="218" text-anchor="middle"
+        font-family="Montserrat,'Arial Black',Arial,sans-serif"
+        font-size="42" font-weight="900" fill="#FFFFFF">PALM CREST</text>
+  <text x="154" y="235" text-anchor="middle"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="17" font-weight="700" letter-spacing="5" fill="#FFFFFF" fill-opacity="0.85">ROOFING</text>
 </svg>

@@ -1,0 +1,11 @@
+{
+  "slug": "south-pasadena",
+  "city": "South Pasadena",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Careful, quality roofing for South Pasadena's historic homes and character neighborhoods.",
+  "neighborhoods": ["Mission Street corridor", "Marengo", "Monterey Hills", "Fair Oaks Ave corridor"],
+  "local_note": "South Pasadena has a nationally recognized historic district and a high concentration of Victorian, Craftsman, and Spanish Colonial Revival homes. We specialize in working carefully on these properties — matching original profiles, preserving existing wood trim and details, and installing systems that meet historic district guidelines where applicable. We approach every South Pasadena job as the detailed, character-home project it deserves to be.",
+  "faqs": [
+    { "q": "Can you replace my South Pasadena Craftsman's roof without altering its historic appearance?", "a": "Yes. We work with Class A composition shingles and concrete tiles available in profiles that closely match original cedar shake and clay tile looks. We'll bring samples to your home before committing to any material selection." }
+  ]
+}

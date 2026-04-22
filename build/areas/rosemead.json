@@ -1,0 +1,11 @@
+{
+  "slug": "rosemead",
+  "city": "Rosemead",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Affordable, quality roofing in Rosemead, CA — licensed and insured.",
+  "neighborhoods": ["Rosemead", "Temple City adjacent", "El Monte adjacent", "San Gabriel adjacent"],
+  "local_note": "Rosemead is a working-class community with a lot of 1950s–60s ranch homes that are now seeing their second or third owner. Many of these roofs have been overlooked for years and present multiple layers, compromised decking, and inadequate ventilation. We do honest assessments — sometimes a repair is all that's needed, and we'll tell you that upfront rather than push a full replacement you don't need.",
+  "faqs": [
+    { "q": "Will you tell me honestly if I need a full replacement or just a repair?", "a": "Always. We won't sell you a replacement you don't need. If targeted repairs will give you another 5–10 years, we'll quote that option and explain the tradeoffs clearly." }
+  ]
+}

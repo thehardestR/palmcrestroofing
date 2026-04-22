@@ -1,0 +1,11 @@
+{
+  "slug": "monterey-park",
+  "city": "Monterey Park",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Trusted roofing contractor for Monterey Park homeowners and businesses.",
+  "neighborhoods": ["Monterey Park", "Garvey corridor", "Atlantic corridor", "Alhambra adjacent"],
+  "local_note": "Monterey Park is a densely built city with a mix of post-war single-family homes, condos, and commercial buildings. The area's older housing stock frequently has composition shingles past their 20-year service life, and many homes have flat-roof additions or garage conversions that need attention. We handle both pitched and flat sections in a single project, so you get a fully integrated waterproofing system.",
+  "faqs": [
+    { "q": "My Monterey Park home has a flat addition — can you do both the pitched and flat sections?", "a": "Yes. We handle hybrid roofs all the time. The pitched section typically gets architectural shingles or tile, and the flat section gets TPO or modified bitumen. We detail the transition carefully so there are no leak points at the junction." }
+  ]
+}

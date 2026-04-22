@@ -1,0 +1,11 @@
+{
+  "slug": "brentwood",
+  "city": "Brentwood",
+  "cluster": "Westside",
+  "short_blurb": "High-quality roofing for Brentwood homes, estates, and hillside properties.",
+  "neighborhoods": ["Brentwood Park", "Brentwood Heights", "Sullivan Canyon", "San Vicente corridor"],
+  "local_note": "Brentwood is one of LA's most desirable westside neighborhoods, with homes ranging from sleek modern builds to traditional Colonials and Spanish estates. We match our work to the quality of these homes — premium materials, precise installation, thorough cleanup, and a workmanship warranty you can count on. Many Brentwood homeowners come to us after disappointing experiences with contractors who treated their premium home like a standard job.",
+  "faqs": [
+    { "q": "Can you work on a modern flat-roof home in Brentwood?", "a": "Yes. We install TPO membrane roofing on modern flat-roof homes throughout Brentwood and the westside. TPO provides a clean white finish, excellent UV resistance, and heat-welded seams that won't split or peel." }
+  ]
+}

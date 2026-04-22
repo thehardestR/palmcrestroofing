@@ -1,0 +1,11 @@
+{
+  "slug": "azusa",
+  "city": "Azusa",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Roofing contractor serving Azusa homes, university buildings, and commercial properties.",
+  "neighborhoods": ["Downtown Azusa", "Azusa Foothills", "Rosedale", "North Azusa", "APU area"],
+  "local_note": "Azusa sits at the foot of the San Gabriel Mountains, with neighborhoods ranging from flatland ranches near Arrow Hwy to newer hillside developments in the Rosedale community. The foothill areas are in fire hazard zones. We serve all of Azusa with licensed, permitted roofing and are familiar with the City of Azusa's building department requirements.",
+  "faqs": [
+    { "q": "Do you handle roofing for commercial and institutional buildings near Azusa Pacific?", "a": "Yes. We handle commercial flat and low-slope roofing for office buildings, educational facilities, and retail centers throughout Azusa. We work around business hours and can schedule night or weekend work when needed." }
+  ]
+}

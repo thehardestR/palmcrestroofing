@@ -1,0 +1,11 @@
+{
+  "slug": "rowland-heights",
+  "city": "Rowland Heights",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Experienced roofing contractor serving Rowland Heights homes and businesses.",
+  "neighborhoods": ["Rowland Heights", "Puente Hills adjacent", "Hacienda Heights adjacent", "Industry adjacent"],
+  "local_note": "Rowland Heights is an unincorporated community in LA County with a mix of single-family neighborhoods and commercial corridors. The area has a strong homeowner community and high standards for contractor quality. We're fully licensed, bonded, and insured — and we back every project with a written workmanship warranty. We don't subcontract our labor; every crew is employed by us directly.",
+  "faqs": [
+    { "q": "Do you use subcontractors in Rowland Heights?", "a": "No. Every crew that works on your roof is a direct employee of Palm Crest Roofing, covered under our workers' comp policy. We never broker jobs to unlicensed subcontractors." }
+  ]
+}

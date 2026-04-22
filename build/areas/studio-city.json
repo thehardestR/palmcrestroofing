@@ -1,0 +1,11 @@
+{
+  "slug": "studio-city",
+  "city": "Studio City",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Premium roofing services for Studio City homes, hillside properties, and estates.",
+  "neighborhoods": ["Laurel Canyon (Valley side)", "Fryman Estates", "Wrightwood Estates", "Tujunga Village", "Coldwater Canyon (Valley side)"],
+  "local_note": "Studio City blends hillside canyon homes with flat-street bungalows near Ventura Blvd. The canyon properties present unique challenges: steep pitches, wood shake conversions, fire-zone requirements, and access logistics. We're experienced with Class A re-roofing on canyon homes across the Santa Monica Mountains boundary, and our crews are equipped for steep-slope work.",
+  "faqs": [
+    { "q": "My Studio City home is in a fire hazard zone — what roofing is compliant?", "a": "Homes in Very High Fire Hazard Severity Zones need Class A roofing assemblies. We install fire-rated concrete tile, metal roofing, and composition shingle systems with the proper underlayment and Chapter 7A-compliant details throughout." }
+  ]
+}

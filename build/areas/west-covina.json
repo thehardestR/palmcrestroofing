@@ -1,0 +1,11 @@
+{
+  "slug": "west-covina",
+  "city": "West Covina",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Full-service roofing in West Covina — repairs, tile, shingle, flat, and more.",
+  "neighborhoods": ["West Covina Hills", "Sunset", "Cortez", "Valinda", "South Hills"],
+  "local_note": "West Covina's South Hills neighborhood and hillside properties require experience with steep pitches and concrete tile. The flatter neighborhoods to the north have large-format homes with shingle roofs in the 15–25 year age range. We're active throughout West Covina and can typically get a free inspection scheduled within a day or two of your call.",
+  "faqs": [
+    { "q": "How quickly can you get out to inspect my West Covina roof?", "a": "We typically schedule free inspections within 1–3 business days. If you have an active leak, we prioritize emergency calls and can usually get out same day or next day." }
+  ]
+}

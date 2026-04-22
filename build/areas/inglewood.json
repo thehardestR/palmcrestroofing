@@ -1,0 +1,11 @@
+{
+  "slug": "inglewood",
+  "city": "Inglewood",
+  "cluster": "South Bay",
+  "short_blurb": "Affordable, licensed roofing in Inglewood — fast service, quality materials.",
+  "neighborhoods": ["Morningside Park", "Inglewood Park", "Century Heights", "Renaissance", "Manchester Square"],
+  "local_note": "Inglewood is experiencing significant growth and real estate investment around SoFi Stadium and the new Clippers arena. Many existing homes in Inglewood are being renovated, and roofing is often a first priority. We work with homeowners, investors, and property managers to deliver quality roofing on time and on budget — especially important when renovation timelines are tight.",
+  "faqs": [
+    { "q": "Can you work quickly on a renovation project in Inglewood?", "a": "Yes. We can typically complete a shingle replacement on an average Inglewood home in one day. We prioritize renovation projects and can work with your GC or project manager to hit your scheduled completion dates." }
+  ]
+}

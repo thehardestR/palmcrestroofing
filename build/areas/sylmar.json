@@ -1,0 +1,11 @@
+{
+  "slug": "sylmar",
+  "city": "Sylmar",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Roofing services for Sylmar homes, commercial buildings, and hillside properties.",
+  "neighborhoods": ["Sylmar", "Mission Hills adjacent", "El Cariso Village", "Kagel Canyon adjacent"],
+  "local_note": "Sylmar sits at the northern edge of the San Fernando Valley, close to the San Gabriel Mountains. Parts of Sylmar are in high fire hazard zones, and the area sees frequent Santa Ana wind events that can damage improperly fastened roofs. We install wind-rated Class A systems and carry out thorough post-storm inspections to identify wind-lifted shingles and displaced tiles before they become leaks.",
+  "faqs": [
+    { "q": "Is Sylmar in a fire hazard zone?", "a": "Portions of Sylmar near the foothills and mountain interface are in High or Very High Fire Hazard Severity Zones. We install Class A roofing systems and can advise on Chapter 7A requirements for your specific parcel." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "el-segundo",
+  "city": "El Segundo",
+  "cluster": "South Bay",
+  "short_blurb": "Premium roofing for El Segundo's residential neighborhoods and commercial campus buildings.",
+  "neighborhoods": ["El Segundo downtown", "Standard Street corridor", "Imperial Ave corridor", "Corporate campus area"],
+  "local_note": "El Segundo is a unique South Bay city — a tight-knit residential community surrounded by one of the highest concentrations of corporate headquarters and aerospace facilities in California. We handle both the residential bungalows and ranch homes in the residential grid, and the flat and low-slope commercial roofing on office campuses and industrial buildings. El Segundo homeowners have high standards, and we deliver accordingly.",
+  "faqs": [
+    { "q": "My El Segundo home is near the ocean — does salt air affect roofing?", "a": "Salt air can accelerate corrosion on metal components like flashing and fasteners. We use stainless steel or coated fasteners and galvanized or aluminum flashings on coastal properties to extend system life." }
+  ]
+}

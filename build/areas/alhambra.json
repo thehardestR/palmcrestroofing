@@ -1,0 +1,11 @@
+{
+  "slug": "alhambra",
+  "city": "Alhambra",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Licensed roofing contractor for Alhambra homes and commercial buildings.",
+  "neighborhoods": ["Midwick Tract", "Granada Park", "Emery Park", "downtown Alhambra"],
+  "local_note": "Alhambra is a dense city with a mix of older Craftsman bungalows, post-war ranches, and commercial corridors along Valley Blvd and Main St. Many roofs here are original or have been overlaid and are well past their service life. We do thorough decking inspections on older homes — dry rot and termite damage to roof sheathing is common in Alhambra's older housing stock and must be addressed before a new roof is installed.",
+  "faqs": [
+    { "q": "How do I know if my Alhambra home needs new roof decking?", "a": "We inspect decking during tear-off. Soft spots, discoloration, delamination, or termite damage indicate replacement is needed. We replace only damaged sections and document everything with photos for your records." }
+  ]
+}

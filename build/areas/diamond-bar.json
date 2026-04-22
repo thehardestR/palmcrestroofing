@@ -1,0 +1,11 @@
+{
+  "slug": "diamond-bar",
+  "city": "Diamond Bar",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Quality roofing services for Diamond Bar homes, HOAs, and commercial properties.",
+  "neighborhoods": ["Country Hills", "Diamond Bar Estates", "Sunset Crossing", "Tres Hermanos area"],
+  "local_note": "Diamond Bar is a planned community with many homes in HOA-governed neighborhoods. We're experienced working within HOA approval processes — submitting material samples, color swatches, and documentation for architectural committee review before work begins. Starting a roofing project without HOA approval can result in fines and required re-work, so we help homeowners navigate this process from the start.",
+  "faqs": [
+    { "q": "Do I need HOA approval to replace my roof in Diamond Bar?", "a": "Most Diamond Bar HOAs require written approval for roofing material changes. We'll provide the sample board, manufacturer specs, and any other documentation your HOA committee needs. We recommend starting the approval process before signing a contract." }
+  ]
+}

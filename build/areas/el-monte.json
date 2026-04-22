@@ -1,0 +1,11 @@
+{
+  "slug": "el-monte",
+  "city": "El Monte",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Licensed roofing for El Monte homes, apartments, and commercial properties.",
+  "neighborhoods": ["North El Monte", "South El Monte", "Mountain View", "Garvey Ave corridor"],
+  "local_note": "El Monte is a large, diverse city with a mix of residential neighborhoods and heavy industrial areas along the 10 freeway. We handle both — residential shingle and tile work in the neighborhoods, and commercial TPO and modified bitumen on the warehouses and light industrial buildings. We're competitive on price without cutting corners on materials or labor.",
+  "faqs": [
+    { "q": "Do you offer financing for roof replacement in El Monte?", "a": "Yes. We work with financing partners that offer 0% interest promotional periods and flexible monthly payment plans. Ask about financing options when you request your free estimate." }
+  ]
+}

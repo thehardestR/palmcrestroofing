@@ -1,0 +1,11 @@
+{
+  "slug": "covina",
+  "city": "Covina",
+  "cluster": "San Gabriel Valley",
+  "short_blurb": "Reliable roofing services for Covina homeowners and commercial property owners.",
+  "neighborhoods": ["Downtown Covina", "Charter Oak", "North Covina", "East Covina"],
+  "local_note": "Covina's residential neighborhoods feature a mix of ranch homes, two-story colonials, and Spanish-style properties. Many homes here have concrete tile roofs that are aging well on top but have failing underlayment beneath — a silent leak waiting to happen. We specialize in tile lift-and-relay projects that preserve your existing tile while completely renewing the waterproof underlayment and flashings.",
+  "faqs": [
+    { "q": "What's a tile lift-and-relay project?", "a": "It's when we carefully remove your existing tile, replace the underlayment and any damaged flashings, then re-set and re-secure the original tile. It's the right choice when your tile is still in good shape but the underlayment beneath is failing." }
+  ]
+}

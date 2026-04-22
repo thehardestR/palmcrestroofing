@@ -1,0 +1,11 @@
+{
+  "slug": "chatsworth",
+  "city": "Chatsworth",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Roofing contractor serving Chatsworth homes, ranches, and industrial properties.",
+  "neighborhoods": ["Chatsworth", "Porter Ranch adjacent", "Chatsworth Hills", "Devonshire Corridor"],
+  "local_note": "Chatsworth's diverse building stock includes sprawling ranch homes, horse properties, industrial parks, and newer residential developments toward Porter Ranch. We handle all roof types here — from tile on custom homes to metal on agricultural and industrial buildings. The area's elevation and exposure to Santa Ana winds mean we pay extra attention to mechanical fastening and flashing details on every job.",
+  "faqs": [
+    { "q": "Do you roof agricultural or large-acreage properties in Chatsworth?", "a": "Yes. We've done metal roofing and tile on ranch properties and agricultural outbuildings throughout the west Valley. We can handle large square footages and logistics on properties with limited road access." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "panorama-city",
+  "city": "Panorama City",
+  "cluster": "San Fernando Valley",
+  "short_blurb": "Roofing contractor in Panorama City — fast, licensed, and affordable.",
+  "neighborhoods": ["Panorama City", "Arleta adjacent", "Pacoima adjacent", "Van Nuys adjacent"],
+  "local_note": "Panorama City is a densely populated mid-Valley community with a high percentage of renters and multi-family housing. We work with property managers and landlords throughout the area who need reliable, code-compliant roofing on tight schedules. We handle tenant notifications, permit pulls, and inspection scheduling so owners have minimal involvement during the project.",
+  "faqs": [
+    { "q": "Can you handle roofing on a multi-unit building in Panorama City with tenants in place?", "a": "Yes. We coordinate work hours around tenant schedules and provide written notice of work dates. Our crews maintain clean, safe worksites and minimize disruption. We handle all permits and city inspections." }
+  ]
+}
