@@ -9,7 +9,7 @@
   </defs>
   <!-- Roofline silhouette — only the ridge lines, no walls/fill -->
   <polyline points="0,60 55,42 55,20 70,20 70,37 180,0 360,60"
-            fill="none" stroke="rgba(255,255,255,0.35)" stroke-opacity="0.18" stroke-width="3" stroke-linejoin="miter"/>
+            fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="3" stroke-linejoin="miter"/>
   <!-- Trunk -->
   <path d="M 177,88 C 177,76 178,62 178,45 L 182,45 C 182,62 183,76 183,88 Z"
         fill="url(#pg)"/>
